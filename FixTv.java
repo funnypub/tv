@@ -3,8 +3,8 @@ import java.io.*;
 public class FixTv {
 
 
-    public static final String ORI_FILE = "E:\\Documents\\iptv.m3u";
-    public static final String FIX_FILE = "E:\\Documents\\iptv.txt";
+    public static final String ORI_FILE = "E:\\Documents\\tv\\iptv.m3u";
+    public static final String FIX_FILE = "E:\\Documents\\tv\\iptv.txt";
 
     public static void main(String[] args) {
         try {
