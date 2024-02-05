@@ -2,8 +2,8 @@
 IPv4频道已失效,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 请切换到IPv6分类,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 卫视IPV4,#genre#
-即将更新IPv4频道,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-请观看IPv6频道,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+即将更新IPv4频道,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
+请观看IPv6频道,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
 央视IPV6,#genre#
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
