@@ -75,6 +75,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 西安教育,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 河北经济,http://121.19.134.246:808/hls/20/index.m3u8
 河北都市,http://121.19.134.246:808/hls/21/index.m3u8
 河北影视,http://121.19.134.246:808/hls/22/index.m3u8
@@ -91,7 +92,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 邢台城生,http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8
 丰宁综合,https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-兴隆综合,null
+兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
 山西经济,http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8
 山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
