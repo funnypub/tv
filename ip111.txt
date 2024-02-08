@@ -215,8 +215,8 @@ CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 069,https://vip.ffzy-play1.com/20221103/10595_e7e1f235/2000k/hls/mixed.m3u8
 070,https://vip.ffzy-play1.com/20221103/10596_fdf12b3f/2000k/hls/mixed.m3u8
 071,https://vip.ffzy-play1.com/20221103/10597_bcf2eae4/2000k/hls/mixed.m3u8
-072,
-073,
-074,
-075,
-076,
+072,https://vip.ffzy-play1.com/20221103/10598_df3ecbb0/2000k/hls/mixed.m3u8
+073,https://vip.ffzy-play1.com/20221103/10599_fb7d3226/2000k/hls/mixed.m3u8
+074,https://vip.ffzy-play1.com/20221103/10600_0b69ef70/2000k/hls/mixed.m3u8
+075,https://vip.ffzy-play1.com/20221103/10601_f70fec60/2000k/hls/mixed.m3u8
+076,https://vip.ffzy-play1.com/20221103/10602_e329a88e/2000k/hls/mixed.m3u8
