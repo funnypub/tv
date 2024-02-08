@@ -222,6 +222,5 @@ CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 076,https://vip.ffzy-play1.com/20221103/10602_e329a88e/2000k/hls/mixed.m3u8
 
 电影,#genre#
-无价之宝,http://vvuu.ddns.net:50999/wjzb222.mp4
-三大队,http://vvuu.ddns.net:50999/sdd/test.m3u8
+三大队,http://m3u8.us.to:30668/sdd/test.m3u8
 
