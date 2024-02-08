@@ -1,4 +1,6 @@
 央视IPV4,#genre#
+4K春晚 36M,http://1.14.131.61:5678/gd4k.php
+8K春晚 150M,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 CCTV-1 综合,http://101.43.3.246/ysp.php?ch=cctv1
 CCTV-2 财经,http://101.43.3.246/ysp.php?ch=cctv2
 CCTV-3 综艺,http://101.43.3.246/ysp.php?ch=cctv3
