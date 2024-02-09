@@ -1,4 +1,5 @@
 央视IPV4,#genre#
+1080P春晚,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 4K春晚 25FPS 36M,http://1.14.131.61:5828/cctv4k.php
 4K春晚 50FPS 36M,http://1.14.131.61:5678/gd4k.php
 8K春晚 150M-1,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
