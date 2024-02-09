@@ -1,43 +1,42 @@
 央视IPV4,#genre#
 1080P春晚,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
+抖音4K春晚,http://mmitv.top/pltv/douyin.php?id=935415609859
 4K春晚 25FPS 36M,http://1.14.131.61:5828/cctv4k.php
 4K春晚 50FPS 36M,http://1.14.131.61:5678/gd4k.php
 8K春晚 150M-1,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
 8K春晚 150M-2,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
-CCTV-1 综合,http://1.117.143.147/ysp.php?ch=cctv1
-CCTV-2 财经,http://1.117.143.147/ysp.php?ch=cctv2
-CCTV-3 综艺,http://1.117.143.147/ysp.php?ch=cctv3
-CCTV-4 中文国际,http://1.117.143.147/ysp.php?ch=cctv4
-CCTV-5 体育,http://1.117.143.147/ysp.php?ch=cctv5
-CCTV-5+ 体育赛事,http://1.117.143.147/ysp.php?ch=cctv5p
-CCTV-6 电影,http://1.117.143.147/ysp.php?ch=cctv6
-CCTV-7 国防军事,http://1.117.143.147/ysp.php?ch=cctv7
-CCTV-8 电视剧,http://1.117.143.147/ysp.php?ch=cctv8
-CCTV-9 纪录,http://1.117.143.147/ysp.php?ch=cctv9
-CCTV-10 科教,http://1.117.143.147/ysp.php?ch=cctv10
-CCTV-11 戏曲,http://1.117.143.147/ysp.php?ch=cctv11
-CCTV-12 社会与法,http://1.117.143.147/ysp.php?ch=cctv12
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-CCTV-14 少儿,http://1.117.143.147/ysp.php?ch=cctv14
-CCTV-15 音乐,http://1.117.143.147/ysp.php?ch=cctv15
-CCTV-16 奥林匹克,http://1.117.143.147/ysp.php?ch=cctv16
-CCTV-16 奥林匹克 4K,http://1.117.143.147/ysp.php?ch=cctv16-4k
-CCTV-17 农业农村,http://1.117.143.147/ysp.php?ch=cctv17
-CCTV-4K 超高清,http://1.117.143.147/ysp.php?ch=cctv4k
-CCTV-8K 超高清,http://1.117.143.147/ysp.php?ch=cctv8k
-CCTV兵器科技,http://1.117.143.147/ysp.php?ch=bqkj
-CCTV第一剧场,http://1.117.143.147/ysp.php?ch=dyjc
-CCTV怀旧剧场,http://1.117.143.147/ysp.php?ch=hjjc
-CCTV风云剧场,http://1.117.143.147/ysp.php?ch=fyjc
-CCTV风云音乐,http://1.117.143.147/ysp.php?ch=fyyy
-CCTV风云足球,http://1.117.143.147/ysp.php?ch=fyzq
-CCTV电视指南,http://1.117.143.147/ysp.php?ch=dszn
-CCTV女性时尚,http://1.117.143.147/ysp.php?ch=nxss
-CCTV央视文化精品,http://1.117.143.147/ysp.php?ch=whjp
-CCTV世界地理,http://1.117.143.147/ysp.php?ch=sjdl
-CCTV高尔夫网球,http://1.117.143.147/ysp.php?ch=gefwq
-CCTV央视台球,http://1.117.143.147/ysp.php?ch=ystq
-CCTV卫生健康,http://1.117.143.147/ysp.php?ch=wsjk
+CCTV1,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
+CCTV2,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+CCTV3,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
+CCTV4,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225744/1/index.m3u8?fmt=ts2hls
+CCTV4欧洲,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+CCTV4美洲,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+CCTV6,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226011/1/index.m3u8?fmt=ts2hls
+CCTV7,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225745/1/index.m3u8?fmt=ts2hls
+CCTV8,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226005/1/index.m3u8?fmt=ts2hls
+CCTV9,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
+CCTV10,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
+CCTV11,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225746/1/index.m3u8?fmt=ts2hls
+CCTV12,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225747/1/index.m3u8?fmt=ts2hls
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV14,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
+CCTV15,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+CCTV16,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226283/1/index.m3u8?fmt=ts2hls
+CCTV17,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+CCTV世界地理,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV兵器科技,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV央视台球,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV女性时尚,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV怀旧剧场,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV文化精品,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV电视指南,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV风云足球,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -45,29 +44,27 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 卫视IPV4,#genre#
-北京卫视,http://1.117.143.147/ysp.php?ch=bjws
-东方卫视,http://1.117.143.147/ysp.php?ch=dfws
-天津卫视,http://1.117.143.147/ysp.php?ch=tjws
-重庆卫视,http://1.117.143.147/ysp.php?ch=cqws
-黑龙江卫视,http://1.117.143.147/ysp.php?ch=hljws
-辽宁卫视,http://1.117.143.147/ysp.php?ch=lnws
-河北卫视,http://1.117.143.147/ysp.php?ch=hbws
-山东卫视,http://1.117.143.147/ysp.php?ch=sdws
-安徽卫视,http://1.117.143.147/ysp.php?ch=ahws
-河南卫视,http://1.117.143.147/ysp.php?ch=hnws
-湖北卫视,http://1.117.143.147/ysp.php?ch=hubws
-湖南卫视,http://1.117.143.147/ysp.php?ch=hunws
-江西卫视,http://1.117.143.147/ysp.php?ch=jxws
-江苏卫视,http://1.117.143.147/ysp.php?ch=jsws
-浙江卫视,http://1.117.143.147/ysp.php?ch=zjws
-东南卫视,http://1.117.143.147/ysp.php?ch=dnws
-广东卫视,http://1.117.143.147/ysp.php?ch=gdws
-深圳卫视,http://1.117.143.147/ysp.php?ch=szws
-广西卫视,http://1.117.143.147/ysp.php?ch=gxws
-贵州卫视,http://1.117.143.147/ysp.php?ch=gzws
-四川卫视,http://1.117.143.147/ysp.php?ch=scws
-新疆卫视,http://1.117.143.147/ysp.php?ch=xjws
-海南卫视,http://1.117.143.147/ysp.php?ch=hinws
+东南卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+北京卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
+吉林卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+四川卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
+天津卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
+安徽卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225716/1/index.m3u8?fmt=ts2hls
+山东卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225728/1/index.m3u8?fmt=ts2hls
+广东卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225720/1/index.m3u8?fmt=ts2hls
+江苏卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+江西卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
+河北卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+河南卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+浙江卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
+深圳卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225712/1/index.m3u8?fmt=ts2hls
+湖北卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225708/1/index.m3u8?fmt=ts2hls
+湖南卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225778/1/index.m3u8?fmt=ts2hls
+甘肃卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
+贵州卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
+辽宁卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+重庆卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+黑龙江卫视,http://39.136.18.199/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
 央视-4K,#genre#
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
