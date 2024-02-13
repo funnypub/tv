@@ -223,7 +223,7 @@ CETV-1,http://121.19.134.246:808/hls/62/index.m3u8
 
 电影,#genre#
 再见李可乐,http://m3u8.us.to:30668/zjlkl/test.m3u8
-莫斯科行动,http://m3u8.us.to:30668/mskxd/test.m3u8
-八角笼中,http://m3u8.us.to:30668/bjlz/test.m3u8
+缉恶,http://m3u8.us.to:30668/je/test.m3u8
+年会不能停,http://m3u8.us.to:30668/nhbnt/test.m3u8
 极寒之城,http://m3u8.us.to:30668/jhzc/test.m3u8
 首尔之春,http://m3u8.us.to:30668/sezc/test.m3u8
