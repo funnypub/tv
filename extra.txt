@@ -82,7 +82,6 @@
 缉恶,http://m3u8.us.to:30668/je/test.m3u8
 年会不能停,http://m3u8.us.to:30668/nhbnt/test.m3u8
 看不见的客人,http://m3u8.us.to:30668/kbjdkr/test.m3u8
-调音师,http://m3u8.us.to:30668/tys/test.m3u8
 消失的爱人,http://m3u8.us.to:30668/xsdar/xsdar.mp4
 女尸谜案,http://m3u8.us.to:30668/nsma/nsma.mp4
 极寒之城,http://m3u8.us.to:30668/jhzc/test.m3u8
