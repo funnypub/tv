@@ -1,7 +1,22 @@
 
 
 
-电影,#genre#
-再见李可乐,http://m3u8.us.to:30668/zjlkl/test.m3u8
-缉恶,http://m3u8.us.to:30668/je/test.m3u8
-极寒之城,http://m3u8.us.to:30668/jhzc/test.m3u8
+花间令,#genre#
+01,http://m3u8.us.to:50789/01.mkv
+02,http://m3u8.us.to:50789/02.mkv
+03,http://m3u8.us.to:50789/03.mkv
+04,http://m3u8.us.to:50789/04.mkv
+05,http://m3u8.us.to:50789/05.mkv
+06,http://m3u8.us.to:50789/06.mkv
+07,http://m3u8.us.to:50789/07.mkv
+08,http://m3u8.us.to:50789/08.mkv
+09,http://m3u8.us.to:50789/09.mkv
+10,http://m3u8.us.to:50789/10.mp4
+11,http://m3u8.us.to:50789/11.mp4
+12,http://m3u8.us.to:50789/12.mp4
+13,http://m3u8.us.to:50789/13.mp4
+14,http://m3u8.us.to:50789/14.mkv
+15,http://m3u8.us.to:50789/15.mkv
+16,http://m3u8.us.to:50789/16.mkv
+17,http://m3u8.us.to:50789/17.mkv
+18,http://m3u8.us.to:50789/18.mkv
