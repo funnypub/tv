@@ -139,3 +139,23 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 group-title="国际",BBC Home
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+#EXTINF:-1 group-title="国际",Universal Kids
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+#EXTINF:-1 group-title="国际",Nat Geo
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+#EXTINF:-1 group-title="国际",NASA
+https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
+#EXTINF:-1 group-title="国际",Start TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
+#EXTINF:-1 group-title="国际",The Weather Channel
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+#EXTINF:-1 group-title="国际",Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 group-title="国际",WE TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
+#EXTINF:-1 group-title="国际",Me TV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
+#EXTINF:-1 group-title="国际",SNY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
