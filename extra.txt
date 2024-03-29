@@ -2,50 +2,53 @@
 
 
 花间令,#genre#
-01,http://m3u8.us.to:29091/huajianling/01.mkv
-02,http://m3u8.us.to:29091/huajianling/02.mkv
-03,http://m3u8.us.to:29091/huajianling/03.mkv
-04,http://m3u8.us.to:29091/huajianling/04.mkv
-05,http://m3u8.us.to:29091/huajianling/05.mkv
-06,http://m3u8.us.to:29091/huajianling/06.mkv
-07,http://m3u8.us.to:29091/huajianling/07.mkv
-08,http://m3u8.us.to:29091/huajianling/08.mkv
-09,http://m3u8.us.to:29091/huajianling/09.mkv
-10,http://m3u8.us.to:29091/huajianling/10.mp4
-11,http://m3u8.us.to:29091/huajianling/11.mp4
-12,http://m3u8.us.to:29091/huajianling/12.mp4
-13,http://m3u8.us.to:29091/huajianling/13.mp4
-14,http://m3u8.us.to:29091/huajianling/14.mkv
-15,http://m3u8.us.to:29091/huajianling/15.mkv
-16,http://m3u8.us.to:29091/huajianling/16.mkv
-17,http://m3u8.us.to:29091/huajianling/17.mkv
-18,http://m3u8.us.to:29091/huajianling/18.mkv
-19,http://m3u8.us.to:29091/huajianling/19.mkv
-20,http://m3u8.us.to:29091/huajianling/20.mkv
-21,http://m3u8.us.to:29091/huajianling/21.mkv
-22,http://m3u8.us.to:29091/huajianling/22.mkv
+01,http://gghih5r5h.us.to:29091/huajianling/01.mkv
+02,http://gghih5r5h.us.to:29091/huajianling/02.mkv
+03,http://gghih5r5h.us.to:29091/huajianling/03.mkv
+04,http://gghih5r5h.us.to:29091/huajianling/04.mkv
+05,http://gghih5r5h.us.to:29091/huajianling/05.mkv
+06,http://gghih5r5h.us.to:29091/huajianling/06.mkv
+07,http://gghih5r5h.us.to:29091/huajianling/07.mkv
+08,http://gghih5r5h.us.to:29091/huajianling/08.mkv
+09,http://gghih5r5h.us.to:29091/huajianling/09.mkv
+10,http://gghih5r5h.us.to:29091/huajianling/10.mp4
+11,http://gghih5r5h.us.to:29091/huajianling/11.mp4
+12,http://gghih5r5h.us.to:29091/huajianling/12.mp4
+13,http://gghih5r5h.us.to:29091/huajianling/13.mp4
+14,http://gghih5r5h.us.to:29091/huajianling/14.mkv
+15,http://gghih5r5h.us.to:29091/huajianling/15.mkv
+16,http://gghih5r5h.us.to:29091/huajianling/16.mkv
+17,http://gghih5r5h.us.to:29091/huajianling/17.mkv
+18,http://gghih5r5h.us.to:29091/huajianling/18.mkv
+19,http://gghih5r5h.us.to:29091/huajianling/19.mkv
+20,http://gghih5r5h.us.to:29091/huajianling/20.mkv
+21,http://gghih5r5h.us.to:29091/huajianling/21.mkv
+22,http://gghih5r5h.us.to:29091/huajianling/22.mkv
+23,http://gghih5r5h.us.to:29091/huajianling/23.mp4
+24,http://gghih5r5h.us.to:29091/huajianling/24.mp4
 
 
 
 与风行,#genre#
-01,http://m3u8.us.to:29091/yufengxing/01.mp4
-02,http://m3u8.us.to:29091/yufengxing/02.mp4
-03,http://m3u8.us.to:29091/yufengxing/03.mp4
-04,http://m3u8.us.to:29091/yufengxing/04.mp4
-05,http://m3u8.us.to:29091/yufengxing/05.mkv
-06,http://m3u8.us.to:29091/yufengxing/06.mkv
-07,http://m3u8.us.to:29091/yufengxing/07.mkv
-08,http://m3u8.us.to:29091/yufengxing/08.mkv
-09,http://m3u8.us.to:29091/yufengxing/09.mkv
-10,http://m3u8.us.to:29091/yufengxing/10.mkv
-11,http://m3u8.us.to:29091/yufengxing/11.mkv
-12,http://m3u8.us.to:29091/yufengxing/12.mkv
-13,http://m3u8.us.to:29091/yufengxing/13.mkv
-14,http://m3u8.us.to:29091/yufengxing/14.mkv
-15,http://m3u8.us.to:29091/yufengxing/15.mkv
-16,http://m3u8.us.to:29091/yufengxing/16.mkv
-17,http://m3u8.us.to:29091/yufengxing/17.mkv
-
+01,http://gghih5r5h.us.to:29091/yufengxing/01.mp4
+02,http://gghih5r5h.us.to:29091/yufengxing/02.mp4
+03,http://gghih5r5h.us.to:29091/yufengxing/03.mp4
+04,http://gghih5r5h.us.to:29091/yufengxing/04.mp4
+05,http://gghih5r5h.us.to:29091/yufengxing/05.mkv
+06,http://gghih5r5h.us.to:29091/yufengxing/06.mkv
+07,http://gghih5r5h.us.to:29091/yufengxing/07.mkv
+08,http://gghih5r5h.us.to:29091/yufengxing/08.mkv
+09,http://gghih5r5h.us.to:29091/yufengxing/09.mkv
+10,http://gghih5r5h.us.to:29091/yufengxing/10.mkv
+11,http://gghih5r5h.us.to:29091/yufengxing/11.mkv
+12,http://gghih5r5h.us.to:29091/yufengxing/12.mkv
+13,http://gghih5r5h.us.to:29091/yufengxing/13.mkv
+14,http://gghih5r5h.us.to:29091/yufengxing/14.mkv
+15,http://gghih5r5h.us.to:29091/yufengxing/15.mkv
+16,http://gghih5r5h.us.to:29091/yufengxing/16.mkv
+17,http://gghih5r5h.us.to:29091/yufengxing/17.mkv
+18,http://gghih5r5h.us.to:29091/yufengxing/18.mp4
+19,http://gghih5r5h.us.to:29091/yufengxing/19.mp4
 
 
 
