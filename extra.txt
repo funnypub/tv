@@ -26,6 +26,7 @@
 22,http://gghih5r5h.us.to:29091/huajianling/22.mkv
 23,http://gghih5r5h.us.to:29091/huajianling/23.mp4
 24,http://gghih5r5h.us.to:29091/huajianling/24.mp4
+25,http://gghih5r5h.us.to:29091/huajianling/25.mp4
 
 
 
@@ -49,6 +50,8 @@
 17,http://gghih5r5h.us.to:29091/yufengxing/17.mkv
 18,http://gghih5r5h.us.to:29091/yufengxing/18.mp4
 19,http://gghih5r5h.us.to:29091/yufengxing/19.mp4
+20,http://gghih5r5h.us.to:29091/yufengxing/20.mp4
+21,http://gghih5r5h.us.to:29091/yufengxing/21.mp4
 
 
 
