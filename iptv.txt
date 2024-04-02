@@ -340,6 +340,8 @@ CGTN纪录,rtp://239.3.1.216:4220
 与凤行22,http://gghih5r5h.us.to:29091/yufengxing_soq9uxN/22.mp4
 与凤行23,http://gghih5r5h.us.to:29091/yufengxing_soq9uxN/23.mp4
 与凤行24,http://gghih5r5h.us.to:29091/yufengxing_soq9uxN/24.mp4
+与凤行25,http://gghih5r5h.us.to:29091/yufengxing_soq9uxN/25.mp4
+与凤行26,http://gghih5r5h.us.to:29091/yufengxing_soq9uxN/26.mp4
 
 
 
@@ -368,6 +370,8 @@ CGTN纪录,rtp://239.3.1.216:4220
 追风者22,http://gghih5r5h.us.to:29091/zhuifengzhe_olp/22.mp4
 追风者23,http://gghih5r5h.us.to:29091/zhuifengzhe_olp/23.mp4
 追风者24,http://gghih5r5h.us.to:29091/zhuifengzhe_olp/24.mp4
+追风者25,http://gghih5r5h.us.to:29091/zhuifengzhe_olp/25.mp4
+追风者26,http://gghih5r5h.us.to:29091/zhuifengzhe_olp/26.mp4
 
 
 烈焰,#genre#
