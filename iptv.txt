@@ -312,6 +312,7 @@ CGTN纪录,rtp://239.3.1.216:4220
 花间令24,http://gghih5r5h.us.to:29091/huajianling_0fe02/24.mp4
 花间令25,http://gghih5r5h.us.to:29091/huajianling_0fe02/25.mp4
 花间令26,http://gghih5r5h.us.to:29091/huajianling_0fe02/26.mp4
+花间令27,http://gghih5r5h.us.to:29091/huajianling_0fe02/27.mp4
 
 
 
@@ -407,6 +408,8 @@ CGTN纪录,rtp://239.3.1.216:4220
 烈焰30,http://gghih5r5h.us.to:29091/lieyan02121_pfe/30.mp4
 烈焰31,http://gghih5r5h.us.to:29091/lieyan02121_pfe/31.mp4
 烈焰32,http://gghih5r5h.us.to:29091/lieyan02121_pfe/32.mp4
+烈焰33,http://gghih5r5h.us.to:29091/lieyan02121_pfe/33.mp4
+烈焰34,http://gghih5r5h.us.to:29091/lieyan02121_pfe/34.mp4
 
 
 
