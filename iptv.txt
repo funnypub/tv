@@ -313,6 +313,8 @@ CGTN纪录,rtp://239.3.1.216:4220
 花间令25,http://gghih5r5h.us.to:57709/huajianling_0fe02/25.mp4
 花间令26,http://gghih5r5h.us.to:57709/huajianling_0fe02/26.mp4
 花间令27,http://gghih5r5h.us.to:57709/huajianling_0fe02/27.mp4
+花间令28,http://gghih5r5h.us.to:57709/huajianling_0fe02/28.mp4
+花间令29,http://gghih5r5h.us.to:57709/huajianling_0fe02/29.mp4
 
 
 
