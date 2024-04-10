@@ -180,8 +180,8 @@ Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 
 
 
-39集全,#genre#
-更到35,http://wh6n9yy6rwm7m2az.us.to:57709/yufengxing_soq9uxN/01.mp4
+与凤行,#genre#
+39集全,http://wh6n9yy6rwm7m2az.us.to:57709/yufengxing_soq9uxN/01.mp4
 与凤行01,http://wh6n9yy6rwm7m2az.us.to:57709/yufengxing_soq9uxN/01.mp4
 与凤行02,http://wh6n9yy6rwm7m2az.us.to:57709/yufengxing_soq9uxN/02.mp4
 与凤行03,http://wh6n9yy6rwm7m2az.us.to:57709/yufengxing_soq9uxN/03.mp4
