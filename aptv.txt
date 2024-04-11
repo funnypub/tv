@@ -1,6 +1,6 @@
 央视IPV4,#genre#
-重温经典,http://148.135.93.213:81/live.php?id=重温经典
 CHC家庭影院,https://tv.iill.top/migu/jtyy
+CHC动作电影,https://tv.iill.top/migu/dzdy
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
 CCTV2,http://148.135.93.213:81/live.php?id=CCTV2
 CCTV3,http://148.135.93.213:81/live.php?id=CCTV3
