@@ -19,7 +19,20 @@ CCTV-16  ,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index
 CCTV-17  ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CGTN新闻,http://221.219.66.252:18888/rtp/239.3.1.215:4220
 CGTN纪录,http://221.219.66.252:18888/rtp/239.3.1.216:4220
-CCTV-4K ,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+中文欧洲,http://221.219.66.252:18888/rtp/239.3.1.213:4220
+中文国际,http://221.219.66.252:18888/rtp/239.3.1.214:4220
+文化精品,http://61.190.129.195:8686/rtp/238.1.79.54:4568
+女性时尚,http://61.190.129.195:8686/rtp/238.1.79.55:4576
+兵器科技,http://61.190.129.195:8686/rtp/238.1.79.56:4584
+风云足球,http://61.190.129.195:8686/rtp/238.1.79.57:4592
+世界地理,http://61.190.129.195:8686/rtp/238.1.79.60:4616
+怀旧剧场,http://61.190.129.195:8686/rtp/238.1.79.61:4624
+风云剧场,http://61.190.129.195:8686/rtp/238.1.79.62:4632
+第一剧场,http://61.190.129.195:8686/rtp/238.1.79.63:4640
+风云音乐,http://61.190.129.195:8686/rtp/238.1.79.64:4648
+央视高网,http://61.190.129.195:8686/rtp/238.1.79.58:4600
+央视台球,http://61.190.129.195:8686/rtp/238.1.79.59:4608
+电视指南,http://61.190.129.195:8686/rtp/238.1.79.53:4560
 卫视,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -101,6 +114,7 @@ BRTV国际频道,http://221.219.66.252:18888/rtp/239.3.1.235:8000
 黑龙江文化,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 数字,#genre#
+CCTV-4K ,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
