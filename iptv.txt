@@ -242,37 +242,9 @@ CCTV-4K,rtp://239.3.1.245:2000
 
 
 
-逆天邪神,#genre#
-01,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/01.mp4
-02,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/02.mp4
-03,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/03.mp4
-04,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/04.mp4
-05,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/05.mp4
-06,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/06.mp4
-07,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/07.mp4
-08,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/08.mp4
-09,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/09.mp4
-10,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/10.mp4
-11,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/11.mp4
-12,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/12.mp4
-13,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/13.mp4
-14,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/14.mp4
-15,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/15.mp4
-16,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/16.mp4
-17,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/17.mp4
-18,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/18.mp4
-19,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/19.mp4
-20,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/20.mp4
-21,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/21.mp4
-22,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/22.mp4
-23,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/23.mp4
-24,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/24.mp4
-25,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/25.mp4
-26,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/26.mp4
-27,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/27.mp4
-28,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/28.mp4
-29,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/29.mp4
-30,http://wh6n9yy6rwm7m2az.us.to:37992/nitianxieshen/30.mp4
+克隆丈夫,#genre#
+01,http://wh6n9yy6rwm7m2az.us.to:37992/kelongzhangfu/01.mkv
+
 
 
 
