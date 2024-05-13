@@ -243,7 +243,7 @@ CCTV-4K,rtp://239.3.1.245:2000
 
 
 克隆丈夫,#genre#
-01,http://wh6n9yy6rwm7m2az.us.to:37992/kelongzhangfu/01.mkv
+01,http://wh6n9yy6rwm7m2az.us.to:37992/kelongzhangfu/01.mp4
 
 
 
