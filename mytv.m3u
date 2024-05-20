@@ -459,3 +459,5 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="联通",快乐垂钓
 rtp://239.3.1.164:8001
+#EXTINF:-1 group-title="自制TV",庆余年2-1
+http://wh6n9yy6rwm7m2az.us.to:37992/qingyunian_01/01.mp4
