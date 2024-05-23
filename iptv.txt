@@ -249,6 +249,8 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 13,http://XNTd62x2cz.us.to:37992/qingyunian_002/13.mkv
 14,http://XNTd62x2cz.us.to:37992/qingyunian_002/14.mkv
 15,http://XNTd62x2cz.us.to:37992/qingyunian_002/15.mkv
+16,http://XNTd62x2cz.us.to:37992/qingyunian_002/16.mp4
+17,http://XNTd62x2cz.us.to:37992/qingyunian_002/17.mp4
 
 
 
