@@ -234,23 +234,25 @@ NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 
 
 庆余年2,#genre#
-01,http://XNTd62x2cz.us.to:37992/qingyunian_002/01.mkv
-02,http://XNTd62x2cz.us.to:37992/qingyunian_002/02.mkv
-03,http://XNTd62x2cz.us.to:37992/qingyunian_002/03.mkv
-04,http://XNTd62x2cz.us.to:37992/qingyunian_002/04.mkv
-05,http://XNTd62x2cz.us.to:37992/qingyunian_002/05.mkv
-06,http://XNTd62x2cz.us.to:37992/qingyunian_002/06.mkv
-07,http://XNTd62x2cz.us.to:37992/qingyunian_002/07.mkv
-08,http://XNTd62x2cz.us.to:37992/qingyunian_002/08.mkv
-09,http://XNTd62x2cz.us.to:37992/qingyunian_002/09.mkv
-10,http://XNTd62x2cz.us.to:37992/qingyunian_002/10.mkv
-11,http://XNTd62x2cz.us.to:37992/qingyunian_002/11.mkv
-12,http://XNTd62x2cz.us.to:37992/qingyunian_002/12.mkv
-13,http://XNTd62x2cz.us.to:37992/qingyunian_002/13.mkv
-14,http://XNTd62x2cz.us.to:37992/qingyunian_002/14.mkv
-15,http://XNTd62x2cz.us.to:37992/qingyunian_002/15.mkv
-16,http://XNTd62x2cz.us.to:37992/qingyunian_002/16.mp4
-17,http://XNTd62x2cz.us.to:37992/qingyunian_002/17.mp4
+01,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/01.mkv
+02,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/02.mkv
+03,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/03.mkv
+04,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/04.mkv
+05,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/05.mkv
+06,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/06.mkv
+07,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/07.mkv
+08,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/08.mkv
+09,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/09.mkv
+10,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/10.mkv
+11,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/11.mkv
+12,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/12.mkv
+13,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/13.mkv
+14,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/14.mkv
+15,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/15.mkv
+16,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/16.mp4
+17,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/17.mp4
+18,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/18.mkv
+19,http://XNTd62x2cz.us.to:37992/qingyunian_2024_002/19.mkv
 
 
 
