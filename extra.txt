@@ -77,6 +77,8 @@
 23,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/23.mkv
 24,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/24.mkv
 25,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/25.mkv
+26,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/26.mkv
+27,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/27.mkv
 
 
 
