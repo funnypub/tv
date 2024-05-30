@@ -264,6 +264,8 @@ The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 25,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/25.mkv
 26,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/26.mkv
 27,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/27.mkv
+28,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/28.mkv
+29,http://3utr5n6yh.us.to:59096/qingyunian_2024_002/29.mkv
 
 
 
