@@ -31,7 +31,6 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 凤凰资讯,http://113.64.147.87:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.147.87:8081/hls/37/index.m3u8
 凤凰香港,http://113.64.147.87:8081/hls/38/index.m3u8
-北京体育休闲,http://148.135.93.213:81/live.php?id=北京体育休闲
 湖南卫视-芒果TV,http://148.135.93.213:81/live.php?id=芒果TV
 湖南卫视,http://148.135.93.213:81/live.php?id=湖南卫视
 东南卫视,http://148.135.93.213:81/live.php?id=东南卫视
@@ -43,6 +42,7 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 山东卫视,http://148.135.93.213:81/live.php?id=山东卫视
 山西卫视,http://148.135.93.213:81/live.php?id=山西卫视
 广东卫视,http://148.135.93.213:81/live.php?id=广东卫视
+广西卫视,http://148.135.93.213:81/live.php?id=广西卫视
 江苏卫视,http://148.135.93.213:81/live.php?id=江苏卫视
 江西卫视,http://148.135.93.213:81/live.php?id=江西卫视
 河北卫视,http://148.135.93.213:81/live.php?id=河北卫视
