@@ -305,47 +305,46 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
 
-#EXTINF:-1 group-title="一起看",斗鱼-科幻Fans
+#EXTINF:-1 group-title="一起看",科幻Fans
 http://192.168.0.121:9999/?roomId=3508304
-#EXTINF:-1 group-title="一起看",斗鱼-Rainsun宇
+#EXTINF:-1 group-title="一起看",Rainsun宇
 http://192.168.0.121:9999/?roomId=323876
-#EXTINF:-1 group-title="一起看",斗鱼-伊太刀刀
+#EXTINF:-1 group-title="一起看",伊太刀刀
 http://192.168.0.121:9999/?roomId=747764
-#EXTINF:-1 group-title="一起看",斗鱼-牛叔说电影
+#EXTINF:-1 group-title="一起看",牛叔说电影
 http://192.168.0.121:9999/?roomId=2758565
-#EXTINF:-1 group-title="一起看",斗鱼-吃奶滴虫
+#EXTINF:-1 group-title="一起看",吃奶滴虫
 http://192.168.0.121:9999/?roomId=263824
-
-#EXTINF:-1 group-title="一起看",虎牙-阿斗归来了
+#EXTINF:-1 group-title="一起看",阿斗归来了
 http://192.168.0.121:10000/?roomId=13303478
-#EXTINF:-1 group-title="一起看",虎牙-扁豆看电影
+#EXTINF:-1 group-title="一起看",扁豆看电影
 http://192.168.0.121:10000/?roomId=16028551
-#EXTINF:-1 group-title="一起看",虎牙-蜡笔小新
+#EXTINF:-1 group-title="一起看",蜡笔小新
 http://192.168.0.121:10000/?roomId=11352970
-#EXTINF:-1 group-title="一起看",虎牙-猫和老鼠
+#EXTINF:-1 group-title="一起看",虎猫和老鼠
 http://192.168.0.121:10000/?roomId=11352879
-#EXTINF:-1 group-title="一起看60",虎牙-八点档
+#EXTINF:-1 group-title="一起看",八点档
 http://192.168.0.121:10000/?roomId=880261
 
 
 
-#EXTINF:-1 group-title="一起看60",斗鱼-科幻Fans
+#EXTINF:-1 group-title="一起看OL",斗鱼-科幻Fans
 https://www.goodiptv.club/douyu/3508304
-#EXTINF:-1 group-title="一起看60",斗鱼-Rainsun宇
+#EXTINF:-1 group-title="一起看OL",斗鱼-Rainsun宇
 https://www.goodiptv.club/douyu/323876
-#EXTINF:-1 group-title="一起看60",斗鱼-伊太刀刀
+#EXTINF:-1 group-title="一起看OL",斗鱼-伊太刀刀
 https://www.goodiptv.club/douyu/747764
-#EXTINF:-1 group-title="一起看60",斗鱼-牛叔说电影
+#EXTINF:-1 group-title="一起看OL",斗鱼-牛叔说电影
 https://www.goodiptv.club/douyu/2758565
-#EXTINF:-1 group-title="一起看60",斗鱼-吃奶滴虫
+#EXTINF:-1 group-title="一起看OL",斗鱼-吃奶滴虫
 https://www.goodiptv.club/douyu/263824
-#EXTINF:-1 group-title="一起看60",虎牙-阿斗归来了
+#EXTINF:-1 group-title="一起看OL",虎牙-阿斗归来了
 https://www.goodiptv.club/huya/13303478
-#EXTINF:-1 group-title="一起看60",虎牙-扁豆看电影
+#EXTINF:-1 group-title="一起看OL",虎牙-扁豆看电影
 https://www.goodiptv.club/huya/16028551
-#EXTINF:-1 group-title="一起看60",虎牙-蜡笔小新
+#EXTINF:-1 group-title="一起看OL",虎牙-蜡笔小新
 https://www.goodiptv.club/huya/11352970
-#EXTINF:-1 group-title="一起看60",虎牙-猫和老鼠
+#EXTINF:-1 group-title="一起看OL",虎牙-猫和老鼠
 https://www.goodiptv.club/huya/11352879
-#EXTINF:-1 group-title="一起看60",虎牙-八点档
+#EXTINF:-1 group-title="一起看OL",虎牙-八点档
 https://www.goodiptv.club/huya/880261
