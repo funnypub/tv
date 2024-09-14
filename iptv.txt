@@ -218,7 +218,7 @@ Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 ComedyDynamics,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
 BBC Earth,https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 The Graham Norton Show,https://i.mjh.nz/discovery-ptgn.m3u8
 Mytime,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 Museum,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
