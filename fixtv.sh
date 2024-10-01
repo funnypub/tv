@@ -1,18 +1,23 @@
 #!/data/data/com.termux/files/usr/bin/bash
+#
+#
+export http_proxy=192.168.0.111:10811
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u>/data/data/com.termux/files/home/fixtv/aptv.m3u
+#curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u>/data/data/com.termux/files/home/fixtv/aptv.m3u
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u>/data/data/com.termux/files/home/fixtv/iptv.m3u
+curl https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u>/data/data/com.termux/files/home/fixtv/aptv.m3u
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u>/data/data/com.termux/files/home/fixtv/Radio.m3u
+curl https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u>/data/data/com.termux/files/home/fixtv/iptv.m3u
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u>/data/data/com.termux/files/home/fixtv/fmmitv.m3u
+curl https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u>/data/data/com.termux/files/home/fixtv/Radio.m3u
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u>/data/data/com.termux/files/home/fixtv/fmmipv6.m3u
+curl https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u>/data/data/com.termux/files/home/fixtv/fmmitv.m3u
 
-curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u>/data/data/com.termux/files/home/fixtv/rivens7iptv.m3u
+curl https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u>/data/data/com.termux/files/home/fixtv/fmmipv6.m3u
 
-curl --proxy http://192.168.0.111:10811 -o /data/data/com.termux/files/home/fixtv/fy.xml https://epg.v1.mk/fy.xml
+curl https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u>/data/data/com.termux/files/home/fixtv/rivens7iptv.m3u
+
+wget -O /data/data/com.termux/files/home/fixtv/fy.xml https://epg.v1.mk/fy.xml
 
 
 
