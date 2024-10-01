@@ -12,7 +12,7 @@ curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/fanmin
 
 curl --proxy http://192.168.0.111:10811 https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u>/data/data/com.termux/files/home/fixtv/rivens7iptv.m3u
 
-curl --proxy http://192.168.0.111:10811 https://epg.v1.mk/fy.xml>/data/data/com.termux/files/home/fixtv/fy.xml
+curl --proxy http://192.168.0.111:10811 -o /data/data/com.termux/files/home/fixtv/fy.xml https://epg.v1.mk/fy.xml
 
 
 
