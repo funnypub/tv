@@ -282,37 +282,37 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="一起看",科幻Fans
-http://192.168.0.121:9999/?roomId=3508304
+http://192.168.0.121:9999/douyu/?roomId=3508304
 #EXTINF:-1 group-title="一起看",Rainsun宇
-http://192.168.0.121:9999/?roomId=323876
+http://192.168.0.121:9999/douyu/?roomId=323876
 #EXTINF:-1 group-title="一起看",伊太刀刀
-http://192.168.0.121:9999/?roomId=747764
+http://192.168.0.121:9999/douyu/?roomId=747764
 #EXTINF:-1 group-title="一起看",牛叔说电影
-http://192.168.0.121:9999/?roomId=2758565
+http://192.168.0.121:9999/douyu/?roomId=2758565
 #EXTINF:-1 group-title="一起看",吃奶滴虫
-http://192.168.0.121:9999/?roomId=263824
+http://192.168.0.121:9999/douyu/?roomId=263824
 #EXTINF:-1 group-title="一起看",贝爷影厅
-http://192.168.0.121:9999/?roomId=252802
+http://192.168.0.121:9999/douyu/?roomId=252802
 #EXTINF:-1 group-title="一起看",贝爷影厅2
-http://192.168.0.121:9999/?roomId=36337
+http://192.168.0.121:9999/douyu/?roomId=36337
 #EXTINF:-1 group-title="一起看",贝爷MAX厅
-http://192.168.0.121:9999/?roomId=4332
+http://192.168.0.121:9999/douyu/?roomId=4332
 #EXTINF:-1 group-title="一起看",苹果Zei妖
-http://192.168.0.121:9999/?roomId=2793084
+http://192.168.0.121:9999/douyu/?roomId=2793084
 #EXTINF:-1 group-title="一起看",美兮超可爱的
-http://192.168.0.121:9999/?roomId=20415
+http://192.168.0.121:9999/douyu/?roomId=20415
 #EXTINF:-1 group-title="一起看",进击D神乐
-http://192.168.0.121:9999/?roomId=122402
+http://192.168.0.121:9999/douyu/?roomId=122402
 #EXTINF:-1 group-title="一起看",阿斗归来了
-http://192.168.0.121:10000/?roomId=13303478
+http://192.168.0.121:9999/huya/?roomId=13303478
 #EXTINF:-1 group-title="一起看",扁豆看电影
-http://192.168.0.121:10000/?roomId=16028551
+http://192.168.0.121:9999/huya/?roomId=16028551
 #EXTINF:-1 group-title="一起看",蜡笔小新
-http://192.168.0.121:10000/?roomId=11352970
+http://192.168.0.121:9999/huya/?roomId=11352970
 #EXTINF:-1 group-title="一起看",虎猫和老鼠
-http://192.168.0.121:10000/?roomId=11352879
+http://192.168.0.121:9999/huya/?roomId=11352879
 #EXTINF:-1 group-title="一起看",八点档
-http://192.168.0.121:10000/?roomId=880261
+http://192.168.0.121:9999/huya/?roomId=880261
 
 
 #EXTINF:-1 group-title="一起看OL",斗鱼-科幻Fans
