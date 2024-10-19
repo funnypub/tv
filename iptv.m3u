@@ -203,7 +203,8 @@ http://192.168.0.121:9999/huya/?roomId=11352970
 http://192.168.0.121:9999/huya/?roomId=11352879
 #EXTINF:-1 group-title="一起看",八点档
 http://192.168.0.121:9999/huya/?roomId=880261
-
+#EXTINF:-1 group-title="一起看",douyin
+http://192.168.0.121:9999/douyin/?roomId=538907585736
 
 #EXTINF:-1 group-title="一起看OL",斗鱼-科幻Fans
 https://www.goodiptv.club/douyu/3508304
