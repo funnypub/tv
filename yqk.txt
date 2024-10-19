@@ -6,17 +6,33 @@
 
 
 一起看,#genre#
-科幻Fans,http://192.168.0.121:9999/?roomId=3508304
-Rainsun宇,http://192.168.0.121:9999/?roomId=323876
-伊太刀刀,http://192.168.0.121:9999/?roomId=747764
-牛叔说电影,http://192.168.0.121:9999/?roomId=2758565
-吃奶滴虫,http://192.168.0.121:9999/?roomId=263824
+科幻Fans,http://192.168.0.121:9999/douyu/?roomId=3508304
+Rainsun宇,http://192.168.0.121:9999/douyu/?roomId=323876
+伊太刀刀,http://192.168.0.121:9999/douyu/?roomId=747764
+牛叔说电影,http://192.168.0.121:9999/douyu/?roomId=2758565
+吃奶滴虫,http://192.168.0.121:9999/douyu/?roomId=263824
+贝爷影厅,http://192.168.0.121:9999/douyu/?roomId=252802
+贝爷影厅2,http://192.168.0.121:9999/douyu/?roomId=36337
+贝爷MAX厅,http://192.168.0.121:9999/douyu/?roomId=4332
+苹果Zei妖,http://192.168.0.121:9999/douyu/?roomId=2793084
+美兮超可爱的,http://192.168.0.121:9999/douyu/?roomId=20415
+进击D神乐,http://192.168.0.121:9999/douyu/?roomId=122402
+阿斗归来了,http://192.168.0.121:9999/huya/?roomId=13303478
+扁豆看电影,http://192.168.0.121:9999/huya/?roomId=16028551
+蜡笔小新,http://192.168.0.121:9999/huya/?roomId=11352970
+虎猫和老鼠,http://192.168.0.121:9999/huya/?roomId=11352879
+八点档,http://192.168.0.121:9999/huya/?roomId=880261
+
+
 阿斗归来了,http://192.168.0.121:10000/?roomId=13303478
 扁豆看电影,http://192.168.0.121:10000/?roomId=16028551
 蜡笔小新,http://192.168.0.121:10000/?roomId=11352970
 猫和老鼠,http://192.168.0.121:10000/?roomId=11352879
 八点档,http://192.168.0.121:10000/?roomId=880261
 
+douyin,http://192.168.0.121:9999/douyin/?roomId=538907585736
+
+migu,https://flvhspull2mgsplive.miguvideo.com/mglive/vivid05_51.flv?msisdn=08ed6dbc55eb96629e43a51e1a1395b8&mdspid=&spid=800033&netType=0&sid=7510280205&pid=2028597139&timestamp=20241019221107&Channel_ID=0132_10010001005&ProgramID=938277875&ParentNodeID=-99&assertID=7510280205&client_ip=2408:822e:caf:f7a0:b5d5:ad46:cd14:4961&SecurityKey=20241019221107&promotionId=&mvid=7510139771&mcid=500020&mpid=120000507271&playurlVersion=WX-A1-7.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=14a072184ff257f4060ea2082a8ff0b6&sv=10000&ct=www&pos=-1000
 
 
 
