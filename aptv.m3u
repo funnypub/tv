@@ -365,10 +365,10 @@ http://192.168.0.121:9999/huya/?roomId=880261
 
 
 #EXTINF:-1 group-title="一起看",临时01
-http://192.168.0.121:9999/douyin/?roomId=538907585736
+http://192.168.0.121:9999/customize/?roomId=1
 
 #EXTINF:-1 group-title="一起看",临时02
-http://192.168.0.121:9999/customize/?roomId=9999
+http://192.168.0.121:9999/customize/?roomId=2
 
 
 

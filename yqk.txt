@@ -32,9 +32,8 @@ Rainsun宇,http://192.168.0.121:9999/douyu/?roomId=323876
 
 
 
-临时01,http://192.168.0.121:9999/douyin/?roomId=538907585736
-
-临时02,http://192.168.0.121:9999/customize/?roomId=9999
+临时01,http://192.168.0.121:9999/customize/?roomId=1
+临时02,http://192.168.0.121:9999/customize/?roomId=2
 
 
 
