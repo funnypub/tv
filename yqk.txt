@@ -30,9 +30,9 @@ Rainsun宇,http://192.168.0.121:9999/douyu/?roomId=323876
 猫和老鼠,http://192.168.0.121:10000/?roomId=11352879
 八点档,http://192.168.0.121:10000/?roomId=880261
 
-douyin,http://192.168.0.121:9999/douyin/?roomId=538907585736
+临时01,http://192.168.0.121:9999/douyin/?roomId=538907585736
 
-migu,https://flvhspull2mgsplive.miguvideo.com/mglive/vivid05_51.flv?msisdn=08ed6dbc55eb96629e43a51e1a1395b8&mdspid=&spid=800033&netType=0&sid=7510280205&pid=2028597139&timestamp=20241019221107&Channel_ID=0132_10010001005&ProgramID=938277875&ParentNodeID=-99&assertID=7510280205&client_ip=2408:822e:caf:f7a0:b5d5:ad46:cd14:4961&SecurityKey=20241019221107&promotionId=&mvid=7510139771&mcid=500020&mpid=120000507271&playurlVersion=WX-A1-7.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=14a072184ff257f4060ea2082a8ff0b6&sv=10000&ct=www&pos=-1000
+临时02,http://192.168.0.121:9999/qita/?roomId=9999
 
 
 
