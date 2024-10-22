@@ -146,7 +146,8 @@ rtp://239.3.1.126:8001
 #EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="地方",睛彩青少
 rtp://239.3.1.127:8001
 #EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="地方",睛彩场舞
-rtp://239.3.1.128:8001
+rtp://239.3.1.128:8001#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+
 
 #EXTINF:-1 group-title="一起看",科幻Fans
 http://192.168.0.121:9999/douyu/?roomId=3508304
