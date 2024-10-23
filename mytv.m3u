@@ -1,8 +1,12 @@
-
+#EXTM3U
 
 
 #EXTINF:-1 group-title="电影-因果报应",因果报应
 http://8gdgcnkyjhzp.zapto.org:30989/yinguobaoying/01.mp4
+
+
+#EXTINF:-1 group-title="电影-荒野机器人",荒野机器人
+http://8gdgcnkyjhzp.zapto.org:30989/huangyejiqiren/01.mp4
 
 
 #EXTINF:-1 group-title="唐朝诡事录",唐朝诡事录01集
@@ -211,86 +215,6 @@ http://8gdgcnkyjhzp.zapto.org:30989/changxiangsi2_2024_0726/21.mkv
 http://8gdgcnkyjhzp.zapto.org:30989/changxiangsi2_2024_0726/22.mkv
 #EXTINF:-1 group-title="长相思2",长相思2-23集
 http://8gdgcnkyjhzp.zapto.org:30989/changxiangsi2_2024_0726/23.mkv
-
-
-
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事01集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/01.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事02集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/02.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事03集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/03.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事04集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/04.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事05集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/05.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事06集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/06.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事07集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/07.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事08集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/08.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事00集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/09.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事10集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/10.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事11集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/11.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事12集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/12.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事13集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/13.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事14集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/14.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事15集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/15.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事16集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/16.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事17集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/17.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事18集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/18.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事19集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/19.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事20集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/20.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事21集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/21.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事22集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/22.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事23集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/23.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事24集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/24.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事25集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/25.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事26集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/26.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事27集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/27.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事28集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/28.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事29集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/29.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事30集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/30.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事31集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/31.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事32集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/32.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事33集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/33.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事34集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/34.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事35集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/35.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事36集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/36.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事37集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/37.mp4
-#EXTINF:-1 group-title="玫瑰的故事",玫瑰的故事38集
-http://8gdgcnkyjhzp.zapto.org:30989/meiguidegushi_000/38.mp4
-
 
 
 
