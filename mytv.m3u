@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="直播",蜡笔小新
+http://8gdgcnkyjhzp.zapto.org:30999/huya/?roomId=11352970
+#EXTINF:-1 group-title="直播",猫和老鼠
+http://8gdgcnkyjhzp.zapto.org:30999/huya/?roomId=11352879
+
+
+
 #EXTINF:-1 group-title="电影-因果报应",因果报应
 http://8gdgcnkyjhzp.zapto.org:30989/yinguobaoying/01.mp4
 
