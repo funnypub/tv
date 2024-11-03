@@ -156,8 +156,6 @@ rtp://239.3.1.127:8001
 #EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="地方",睛彩场舞
 rtp://239.3.1.128:8001
 #EXTM3U
-
-
 #EXTINF:-1 group-title="一起看",科幻Fans
 http://192.168.0.121:9999/douyu/?roomId=3508304
 #EXTINF:-1 group-title="一起看",Rainsun宇
@@ -168,11 +166,11 @@ http://192.168.0.121:9999/douyu/?roomId=747764
 http://192.168.0.121:9999/douyu/?roomId=2758565
 #EXTINF:-1 group-title="一起看",吃奶滴虫
 http://192.168.0.121:9999/douyu/?roomId=263824
-#EXTINF:-1 group-title="一起看",贝爷影厅
+#EXTINF:-1 group-title="一起看",狂仔酷炫
 http://192.168.0.121:9999/douyu/?roomId=252802
-#EXTINF:-1 group-title="一起看",贝爷影厅2
+#EXTINF:-1 group-title="一起看",酷炫小剧场
 http://192.168.0.121:9999/douyu/?roomId=36337
-#EXTINF:-1 group-title="一起看",贝爷MAX厅
+#EXTINF:-1 group-title="一起看",狂拽酷炫
 http://192.168.0.121:9999/douyu/?roomId=4332
 #EXTINF:-1 group-title="一起看",苹果Zei妖
 http://192.168.0.121:9999/douyu/?roomId=2793084
@@ -180,12 +178,24 @@ http://192.168.0.121:9999/douyu/?roomId=2793084
 http://192.168.0.121:9999/douyu/?roomId=20415
 #EXTINF:-1 group-title="一起看",进击D神乐
 http://192.168.0.121:9999/douyu/?roomId=122402
+#EXTINF:-1 group-title="一起看",baby、贝贝
+http://192.168.0.121:9999/douyu/?roomId=431460
+#EXTINF:-1 group-title="一起看",UU娇哒哒呀
+http://192.168.0.121:9999/douyu/?roomId=96577
+#EXTINF:-1 group-title="一起看",苹果Zei甜
+http://192.168.0.121:9999/douyu/?roomId=1174353
+#EXTINF:-1 group-title="一起看",周星星
+http://192.168.0.121:9999/huya/?roomId=11342412
+#EXTINF:-1 group-title="一起看",野原的一家
+http://192.168.0.121:9999/huya/?roomId=11352970
 #EXTINF:-1 group-title="一起看",阿斗归来了
 http://192.168.0.121:9999/huya/?roomId=13303478
 #EXTINF:-1 group-title="一起看",扁豆看电影
 http://192.168.0.121:9999/huya/?roomId=16028551
-#EXTINF:-1 group-title="一起看",蜡笔小新
-http://192.168.0.121:9999/huya/?roomId=11352970
+#EXTINF:-1 group-title="一起看",正恒YJ-十五放映厅
+http://192.168.0.121:9999/huya/?roomId=29451869
+#EXTINF:-1 group-title="一起看",简辞子
+http://192.168.0.121:9999/huya/?roomId=29915635
 #EXTINF:-1 group-title="一起看",虎猫和老鼠
 http://192.168.0.121:9999/huya/?roomId=11352879
 #EXTINF:-1 group-title="一起看",八点档
