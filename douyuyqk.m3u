@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2024-12-06 08:00:20" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-12-06 08:00:20
+#EXTINF:-1 tvg-name="2024-12-06 08:20:20" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="列表更新时间",2024-12-06 08:20:20
 https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
@@ -13,14 +13,14 @@ http://192.168.0.111:35455/douyu/85894
 http://192.168.0.111:35455/douyu/2758565
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/15e855fa31e94ca3862f80c2337f0e3c_big.jpg" group-title="一起看", 美兮超可爱的
 http://192.168.0.111:35455/douyu/20415
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/8d0ac6a6f78549bfbe378fec1c10782f_big.jpg" group-title="一起看", 爱情公寓丶神乐
-http://192.168.0.111:35455/douyu/6566658
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/571d240fe491496a8a7869740438b0f2_big.jpg" group-title="一起看", 安慕兮超好喝
+http://192.168.0.111:35455/douyu/5062195
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/4b77c73f33f343b3a5acc11c20b69efe_big.jpg" group-title="一起看", baby丶贝贝
 http://192.168.0.111:35455/douyu/431460
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="一起看", 怡宝妹妹丶
 http://192.168.0.111:35455/douyu/434971
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_big.jpg" group-title="一起看", 珍珠奶茶嗯哼哎哟
-http://192.168.0.111:35455/douyu/6566671
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/542e5f1e3abf47d5ab3c5d9a20d53357_big.jpg" group-title="一起看", 追梦凌宝
+http://192.168.0.111:35455/douyu/1377142
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/62f933d6ea2a4ba0a7d1c8c8fb8dfa8e_big.jpg" group-title="一起看", 韓美兮
 http://192.168.0.111:35455/douyu/2838296
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202410/350819a334744a83b7e4b9b821c25aff_big.jpg" group-title="一起看", 进击D神乐
@@ -33,22 +33,22 @@ http://192.168.0.111:35455/douyu/4258555
 http://192.168.0.111:35455/douyu/252802
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/9c7831418a1a46008e7449782e4413a9_big.jpg" group-title="一起看", 是一坨蓝翔啊
 http://192.168.0.111:35455/douyu/276200
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/542e5f1e3abf47d5ab3c5d9a20d53357_big.jpg" group-title="一起看", 追梦凌宝
-http://192.168.0.111:35455/douyu/1377142
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="一起看", 狂拽酷炫
 http://192.168.0.111:35455/douyu/4332
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/6bc242d703d441388920211538fa412d_big.jpg" group-title="一起看", 方昕x
 http://192.168.0.111:35455/douyu/11926933
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1b622249ad24a8fa3d6a5885ece793d_big.jpg" group-title="一起看", 蓝翔老三国
 http://192.168.0.111:35455/douyu/7459925
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/d331e3226e639bfc3779ebd0704f6c03_big.jpg" group-title="一起看", 傲娇的虾虾
+http://192.168.0.111:35455/douyu/338759
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/ac2ec21374664a9ca0bfe3851a5fdeb3_big.jpg" group-title="原创IP", 开心锤锤动漫
 http://192.168.0.111:35455/douyu/9018297
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202410/b63eab315fed410dbb33e3fc62ed88ee_big.jpg" group-title="一起看", 蒲蚂蚱
 http://192.168.0.111:35455/douyu/6079455
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg" group-title="原创IP", 火龙果说电影
 http://192.168.0.111:35455/douyu/9559158
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/25f11c7e91c94ea29bc130c53277e4c2_big.jpg" group-title="一起看", 当燕双鹰遇见李元芳
-http://192.168.0.111:35455/douyu/3439096
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/22/12/a0dbeb1ed6571326fe7bf837a44bfdb8_big.jpg" group-title="一起看", UU娇哒哒呀
+http://192.168.0.111:35455/douyu/96577
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg" group-title="一起看", 粤语电影丶
 http://192.168.0.111:35455/douyu/1226741
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/1ba33d56167b45b7a2037a6995f107a2_big.jpg" group-title="原创IP", 宋小宝小品
@@ -65,12 +65,12 @@ http://192.168.0.111:35455/douyu/9419771
 http://192.168.0.111:35455/douyu/7537296
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/4a8714735df74469bb189b0c700a2633_big.jpg" group-title="原创IP", 游钓中国李大毛
 http://192.168.0.111:35455/douyu/791411
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1f62bcbde0c747dba72e4772c9cd9841_big.jpg" group-title="原创IP", 都市夜魔人老王
-http://192.168.0.111:35455/douyu/610972
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/0be6271f31464d6fbfd775c33e372753_big.jpg" group-title="原创IP", 篮球人物
 http://192.168.0.111:35455/douyu/8434598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/03d16109b272403eb6dd70593e97daf2_big.jpg" group-title="原创IP", 刘老师说电影
 http://192.168.0.111:35455/douyu/8317926
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1f62bcbde0c747dba72e4772c9cd9841_big.jpg" group-title="原创IP", 都市夜魔人老王
+http://192.168.0.111:35455/douyu/610972
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/1627d981c5434781bf677ad58a863f03_big.jpg" group-title="原创IP", 虫哥说电影
 http://192.168.0.111:35455/douyu/8915074
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/3c1ce21a9a544daea465d7cc4abdbf52_big.jpg" group-title="原创IP", 大漠叔叔Dm
@@ -95,26 +95,30 @@ http://192.168.0.111:35455/douyu/3870925
 http://192.168.0.111:35455/douyu/3508304
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f116dfa55d72414e80d89ae9774c103c_big.jpg" group-title="原创IP", OneGuy丶
 http://192.168.0.111:35455/douyu/9734098
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/004/26/42/53_avatar_big.jpg" group-title="一起看", UnaDirezione
+http://192.168.0.111:35455/douyu/218859
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/8d0ac6a6f78549bfbe378fec1c10782f_big.jpg" group-title="一起看", 爱情公寓丶神乐
+http://192.168.0.111:35455/douyu/6566658
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="一起看", 伊太刀刀
 http://192.168.0.111:35455/douyu/747764
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/8eb197d162624fcc90c4d26a49308c79_big.jpg" group-title="一起看", Rainsun宇
 http://192.168.0.111:35455/douyu/323876
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f1567c8d2e314c2ca1a826db6637e14c_big.jpg" group-title="一起看", 当铁手团遇到光复社
-http://192.168.0.111:35455/douyu/5875025
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202312/d87895b264f24dfdac6d6bb17410a96f_big.jpg" group-title="一起看", 萌小鬼
 http://192.168.0.111:35455/douyu/3928
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg" group-title="原创IP", 万合出品
 http://192.168.0.111:35455/douyu/9220456
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg" group-title="原创IP", 用户1275665728
-http://192.168.0.111:35455/douyu/9067836
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/4b690c611a944165bd43ba85b494dba0_big.jpg" group-title="热门游戏", 久了旧知
+http://192.168.0.111:35455/douyu/310926
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/1f039625fcdf449c8c5d4a4c8594040c_big.jpg" group-title="一起看", 菜b惊怂院
 http://192.168.0.111:35455/douyu/7882691
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/571d240fe491496a8a7869740438b0f2_big.jpg" group-title="一起看", 安慕兮超好喝
-http://192.168.0.111:35455/douyu/5062195
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/255f1eb5c0a4424eb83cea73b9299f68_big.jpg" group-title="一起看", 永远快乐的小美女
-http://192.168.0.111:35455/douyu/6091425
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/02_big.jpg" group-title="原创IP", 用户1275665728
+http://192.168.0.111:35455/douyu/9067836
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_big.jpg" group-title="一起看", 珍珠奶茶嗯哼哎哟
+http://192.168.0.111:35455/douyu/6566671
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/72d0ebc55ff84bacaa09455c2b62033a_big.jpg" group-title="一起看", 丶丶丶九月丶丶丶
 http://192.168.0.111:35455/douyu/10338873
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/255f1eb5c0a4424eb83cea73b9299f68_big.jpg" group-title="一起看", 永远快乐的小美女
+http://192.168.0.111:35455/douyu/6091425
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5ef9d68abb5b45e4afefe8194b5dcd5c_big.jpg" group-title="原创IP", 小约翰可汗
 http://192.168.0.111:35455/douyu/9738854
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/3bc30006afe04a41b9d286d9b07d510e_big.jpg" group-title="一起看", 女团社颜老师
@@ -123,16 +127,16 @@ http://192.168.0.111:35455/douyu/11327316
 http://192.168.0.111:35455/douyu/6668627
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/a34ef128255641c7826e4c866357a37f_big.jpg" group-title="一起看", 智仗心
 http://192.168.0.111:35455/douyu/5635000
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/19ba4a083d154904a748dd5a80372b70_big.jpg" group-title="原创IP", 赵本山经典小品
-http://192.168.0.111:35455/douyu/9817716
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/1406f92f9c5042cd8506679f84257198_big.jpg" group-title="一起看", 进击的神樂
 http://192.168.0.111:35455/douyu/6557037
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/19ba4a083d154904a748dd5a80372b70_big.jpg" group-title="原创IP", 赵本山经典小品
+http://192.168.0.111:35455/douyu/9817716
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/d174a8d3374743caa3389e0d046e2639_big.jpg" group-title="一起看", 十七岁的道姑
+http://192.168.0.111:35455/douyu/3186217
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/8c705c879de440e5ac6419b08391b8c0_big.jpg" group-title="一起看", 綫条小狗
 http://192.168.0.111:35455/douyu/11279861
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/3d5301184d0c4c9abc73d8fc94db111d_big.jpg" group-title="一起看", 龍組队长天昊
 http://192.168.0.111:35455/douyu/1487654
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/d174a8d3374743caa3389e0d046e2639_big.jpg" group-title="一起看", 十七岁的道姑
-http://192.168.0.111:35455/douyu/3186217
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/9293b975b9f94592ae06e32240109292_big.jpg" group-title="一起看", 吃奶滴虫
 http://192.168.0.111:35455/douyu/263824
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/daac8a828238416c857ab2ea9dbee193_big.jpg" group-title="一起看", 丨灬发财叔灬丨
@@ -143,46 +147,50 @@ http://192.168.0.111:35455/douyu/131977
 http://192.168.0.111:35455/douyu/299854
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/1323c09e58a94801a8119ddcc5d08473_big.jpg" group-title="一起看", 嫒沵芯卟浍变
 http://192.168.0.111:35455/douyu/11544610
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/25f11c7e91c94ea29bc130c53277e4c2_big.jpg" group-title="一起看", 当燕双鹰遇见李元芳
+http://192.168.0.111:35455/douyu/3439096
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/dc4863f939d54549a51ee130c54c3d78_big.jpg" group-title="一起看", 当幽兰剑遇上链子刀
 http://192.168.0.111:35455/douyu/6027991
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/e284c3151ce745a59c8279b3a40f8ebc_big.jpg" group-title="一起看", 丨灬释怀灬丨
 http://192.168.0.111:35455/douyu/11391949
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/16/23/923dabe03d3f84945d24875ab4b93289_big.jpg" group-title="一起看", 吃米滴虫
-http://192.168.0.111:35455/douyu/315457
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg" group-title="一起看", 白了个痴
 http://192.168.0.111:35455/douyu/319576
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/16/23/923dabe03d3f84945d24875ab4b93289_big.jpg" group-title="一起看", 吃米滴虫
+http://192.168.0.111:35455/douyu/315457
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/e20be6dedf0744429f83acfe3bbcf704_big.jpg" group-title="一起看", 师落
 http://192.168.0.111:35455/douyu/6911044
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/2c8ea1a6bbe944e3b3ed5c0834639729_big.jpg" group-title="一起看", 爱情公寓vip
-http://192.168.0.111:35455/douyu/6863367
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/02/11/ed637cc2c43e94c6d841f5c1c75ac084_big.jpg" group-title="一起看", Only丶邵氏
 http://192.168.0.111:35455/douyu/4246519
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/2c8ea1a6bbe944e3b3ed5c0834639729_big.jpg" group-title="一起看", 爱情公寓vip
+http://192.168.0.111:35455/douyu/6863367
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f3ba01330c414681a903c62679c59dee_big.jpg" group-title="一起看", 702放映厅
 http://192.168.0.111:35455/douyu/10348728
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/b36e20eb35e64a76b217450b9f06004b_big.jpg" group-title="一起看", 酷炫小剧场
 http://192.168.0.111:35455/douyu/36337
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/ac854aac8ee84812a895fe704853e779_big.jpg" group-title="一起看", 南波儿的柠檬
 http://192.168.0.111:35455/douyu/3379942
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="一起看", 苹果Zei妖
-http://192.168.0.111:35455/douyu/2793084
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/010/51/61/02_avatar_big.jpg" group-title="一起看", 懒猫是只喵
 http://192.168.0.111:35455/douyu/260322
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/11/15/ce5b56c162e56be3c62c689f42629198_big.jpg" group-title="一起看", 苹果Zei妖
+http://192.168.0.111:35455/douyu/2793084
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/7e5534093a9f45679db16d3d055ae564_big.jpg" group-title="一起看", 刀刀de食堂
+http://192.168.0.111:35455/douyu/6733133
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/7ce558844cfb442cad714d78caa6d6ae_big.jpg" group-title="一起看", 名侦探柯南之银色子弹
 http://192.168.0.111:35455/douyu/6484910
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="一起看", 小粤兒
+http://192.168.0.111:35455/douyu/5033502
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/2b375f18cb4e488ab5268dc0d0a478b5_big.jpg" group-title="一起看", 菠萝屋的海绵宝宝
 http://192.168.0.111:35455/douyu/3949681
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202405/99e218a2703e4a46baeffa86a07e34d8_big.jpg" group-title="一起看", 丶小跟班丿瑶瑶
 http://192.168.0.111:35455/douyu/2935323
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="一起看", 小粤兒
-http://192.168.0.111:35455/douyu/5033502
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/7e5534093a9f45679db16d3d055ae564_big.jpg" group-title="一起看", 刀刀de食堂
-http://192.168.0.111:35455/douyu/6733133
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/d56af210b700d7189408044eca2907d2_big.jpg" group-title="一起看", 疯狂尛瀦瀦
 http://192.168.0.111:35455/douyu/4290711
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202402/e5dac5afefc0471d88f76e418096a11d_big.jpg" group-title="一起看", 单纯的顺才少爷
 http://192.168.0.111:35455/douyu/10084875
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/2d2a5e1d512744b195a8f0c7bacdbb73_big.jpg" group-title="一起看", 小毅主播q
 http://192.168.0.111:35455/douyu/6906628
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/f1567c8d2e314c2ca1a826db6637e14c_big.jpg" group-title="一起看", 当铁手团遇到光复社
+http://192.168.0.111:35455/douyu/5875025
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/b47d17758975484c826f4f0787c2a2a8_big.jpg" group-title="一起看", 徐大sao
 http://192.168.0.111:35455/douyu/7107176
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/270eaa2b0ccc4182b402eea681e61bea_big.jpg" group-title="原创IP", 崔然竣舞台天才
@@ -195,34 +203,34 @@ http://192.168.0.111:35455/douyu/5522351
 http://192.168.0.111:35455/douyu/4373285
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202408/711b2610401246ed86d0977b623f416c_big.jpg" group-title="一起看", 影视剧颜老师
 http://192.168.0.111:35455/douyu/12191214
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="一起看", 牛奶味的梦猪猪
-http://192.168.0.111:35455/douyu/5261342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="一起看", 鱼小丸梓
 http://192.168.0.111:35455/douyu/6140589
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/010c17645de24909a2346e4999e8a265_big.jpg" group-title="一起看", 牛奶味的梦猪猪
+http://192.168.0.111:35455/douyu/5261342
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/3c843663a7ab4b4b9ca3725431823622_big.jpg" group-title="一起看", 怀旧经典影视汇
 http://192.168.0.111:35455/douyu/12143022
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201705/31/22/60b2898f9ca9b0e653bf7a4ad09a1a6e_big.jpg" group-title="一起看", 苹果Zei甜
 http://192.168.0.111:35455/douyu/1174353
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/a9b27e22efaa40e18a4b380830eb93db_big.jpg" group-title="一起看", 一样二职
 http://192.168.0.111:35455/douyu/11827530
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/70177e932e8d4f1d84b8bc5eed4e23f4_big.jpg" group-title="一起看", 喷子OAO
-http://192.168.0.111:35455/douyu/7253343
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/27/09/621d09c7651730db93e9081bc16f4f42_big.jpg" group-title="一起看", 甜漫妮666
 http://192.168.0.111:35455/douyu/1569773
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/70177e932e8d4f1d84b8bc5eed4e23f4_big.jpg" group-title="一起看", 喷子OAO
+http://192.168.0.111:35455/douyu/7253343
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/c8551e211d0f4e0e8d0e40501355d35f_big.jpg" group-title="一起看", 往事vs随风1
 http://192.168.0.111:35455/douyu/3113309
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/00d5d4cb0bbc4599b4a68e93fbfdef0b_big.jpg" group-title="一起看", gslaini
-http://192.168.0.111:35455/douyu/6997954
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/515e0182255c47738969f4d9d3fcc32f_big.jpg" group-title="一起看", 时光再遇见
 http://192.168.0.111:35455/douyu/4944033
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/00d5d4cb0bbc4599b4a68e93fbfdef0b_big.jpg" group-title="一起看", gslaini
+http://192.168.0.111:35455/douyu/6997954
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/7ac3ee34aa624efc9903a5407e4de39d_big.jpg" group-title="一起看", mn静静nm
 http://192.168.0.111:35455/douyu/5668371
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_big.jpg" group-title="一起看", 鯋鱼辰辰
-http://192.168.0.111:35455/douyu/7623292
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/4a19e31284b14e2a893505b8c0a18ffd_big.jpg" group-title="一起看", 一起看港剧
 http://192.168.0.111:35455/douyu/5061550
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/c593dd94c9de4c62976bdec933656562_big.jpg" group-title="一起看", 米尼影院
 http://192.168.0.111:35455/douyu/7642724
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9728369a82d1422fa1992530569d207a_big.jpg" group-title="一起看", 鯋鱼辰辰
+http://192.168.0.111:35455/douyu/7623292
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/017/11/51/34_avatar_big.jpg" group-title="一起看", koanluowei
 http://192.168.0.111:35455/douyu/10906963
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c8bfde51ded543efa82a3a67ef2585fd_big.jpg" group-title="一起看", PDD影院阿
@@ -235,14 +243,14 @@ http://192.168.0.111:35455/douyu/7655471
 http://192.168.0.111:35455/douyu/322360
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/07bba4672f144b8f94cd774416e3da98_big.jpg" group-title="一起看", 芊珏ovo
 http://192.168.0.111:35455/douyu/8814650
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/cdb4acce8f9e41c7a0c68df927ec9cc2_big.jpg" group-title="一起看", 很优美
-http://192.168.0.111:35455/douyu/7528160
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/36e960ea9abf4b219fb1238b755c266a_big.jpg" group-title="一起看", Sy一渣男李元芳
-http://192.168.0.111:35455/douyu/7812810
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/ad9d9947fb6f48028aecc0ff73f663c6_big.jpg" group-title="一起看", 猫咪电影
-http://192.168.0.111:35455/douyu/11673725
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201608/31/561f06756b5aba44a0206e3d00518912_big.jpg" group-title="一起看", JhZj丶天明
 http://192.168.0.111:35455/douyu/1006179
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/36e960ea9abf4b219fb1238b755c266a_big.jpg" group-title="一起看", Sy一渣男李元芳
+http://192.168.0.111:35455/douyu/7812810
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/cdb4acce8f9e41c7a0c68df927ec9cc2_big.jpg" group-title="一起看", 很优美
+http://192.168.0.111:35455/douyu/7528160
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/ad9d9947fb6f48028aecc0ff73f663c6_big.jpg" group-title="一起看", 猫咪电影
+http://192.168.0.111:35455/douyu/11673725
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/cbf41204e6104a2080c73d2ac55df102_big.jpg" group-title="一起看", 张二千11
 http://192.168.0.111:35455/douyu/8945323
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/03f48fb671164fa4aa3d133823b5972b_big.jpg" group-title="一起看", 刘松毅
@@ -267,30 +275,30 @@ http://192.168.0.111:35455/douyu/11878141
 http://192.168.0.111:35455/douyu/1783144
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/895f8a6efb0d4746b4c6142b03853e77_big.jpg" group-title="一起看", 球球来了呦
 http://192.168.0.111:35455/douyu/12180551
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/1ede7a4eec424ddc9fb32889108db64f_big.jpg" group-title="一起看", 不愿透露姓氏的林百万
-http://192.168.0.111:35455/douyu/2726977
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/54adb764aba24e0f9ed1536054b8b275_big.jpg" group-title="一起看", 一把钢刀镇斗虞
 http://192.168.0.111:35455/douyu/7356023
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/983cca37c5b94b62bc8c446d975a93d3_big.jpg" group-title="一起看", 玛莎提
 http://192.168.0.111:35455/douyu/8543072
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/b61890d99600443a8c767554c2b50608_big.jpg" group-title="一起看", e尒袏
-http://192.168.0.111:35455/douyu/12015111
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/1ede7a4eec424ddc9fb32889108db64f_big.jpg" group-title="一起看", 不愿透露姓氏的林百万
+http://192.168.0.111:35455/douyu/2726977
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/03b1a43d2e644accb3a7d05159b2ef9a_big.jpg" group-title="一起看", 小姐姐不记得
 http://192.168.0.111:35455/douyu/3700024
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/b61890d99600443a8c767554c2b50608_big.jpg" group-title="一起看", e尒袏
+http://192.168.0.111:35455/douyu/12015111
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/10/23/fa47e6dd19ec80961efb4a5a134d5804_big.jpg" group-title="一起看", 电力局刘处长
 http://192.168.0.111:35455/douyu/12170696
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/12422ecfee974b2199b5e29dec475275_big.jpg" group-title="一起看", 武侠剧场
 http://192.168.0.111:35455/douyu/9285904
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/8fd5af28bebb4deda46d24ce185cde3f_big.jpg" group-title="一起看", 都是奔奔的错丶
 http://192.168.0.111:35455/douyu/8953746
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/15/20/b41ea8596aec11e1dd2271268eacce3a_big.jpg" group-title="一起看", 多发几个思雨
-http://192.168.0.111:35455/douyu/7256376
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202407/753aba64d75f45dfbf568c810d594661_big.jpg" group-title="一起看", 小美电影经典港片
 http://192.168.0.111:35455/douyu/12176174
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/b80620d2b3b5403c9ca69b213fa27e02_big.jpg" group-title="一起看", 坐空城等一人
-http://192.168.0.111:35455/douyu/11774356
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201701/15/20/b41ea8596aec11e1dd2271268eacce3a_big.jpg" group-title="一起看", 多发几个思雨
+http://192.168.0.111:35455/douyu/7256376
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201707/13/19/79c8a18d6be9d45cec1a1c5352988b37_big.jpg" group-title="一起看", v刺猬猪v
 http://192.168.0.111:35455/douyu/2436390
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/b80620d2b3b5403c9ca69b213fa27e02_big.jpg" group-title="一起看", 坐空城等一人
+http://192.168.0.111:35455/douyu/11774356
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/65e27dfc059e4b608248289c026c2324_big.jpg" group-title="一起看", 草帽丶海贼团
 http://192.168.0.111:35455/douyu/997925
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/000/83/12/80_avatar_big.jpg" group-title="一起看", 我是懒羊羊
@@ -317,8 +325,6 @@ http://192.168.0.111:35455/douyu/12139546
 http://192.168.0.111:35455/douyu/12124964
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202307/52bd9c6dcf7047399f918dcafdbde9ff_big.jpg" group-title="一起看", 爱情公寓95001
 http://192.168.0.111:35455/douyu/11720507
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/1862ee78bb904eff950ef6246da477d1_big.jpg" group-title="原创IP", 田柾国solo大发
-http://192.168.0.111:35455/douyu/8189873
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/cce3554153864b53b68a8a8e8c579296_big.jpg" group-title="一起看", 三国颜老师
 http://192.168.0.111:35455/douyu/12253936
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/85e075bb3e3f42e0b39a59b6bec14332_big.jpg" group-title="一起看", 胡八一冲冲冲
@@ -335,16 +341,18 @@ http://192.168.0.111:35455/douyu/292098
 http://192.168.0.111:35455/douyu/10183347
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/1be61689e1954fb09a6068f78365ec6a_big.jpg" group-title="一起看", 箩卜君
 http://192.168.0.111:35455/douyu/7495810
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/1862ee78bb904eff950ef6246da477d1_big.jpg" group-title="原创IP", 田柾国solo大发
+http://192.168.0.111:35455/douyu/8189873
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/3c7aed7c29fb455fbe369a1a383c7628_big.jpg" group-title="一起看", 一只究极蓝霸虎
 http://192.168.0.111:35455/douyu/8770422
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/593e930401564d83a131b7e94f3590a2_big.jpg" group-title="原创IP", 赵本删不删
 http://192.168.0.111:35455/douyu/9837104
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/30592252cfc3465eb1c9c047a6b593c1_big.jpg" group-title="一起看", 魔术师丶西索
 http://192.168.0.111:35455/douyu/6610883
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/f3a7d31533444956b3a4a0ed5d3666a8_big.jpg" group-title="原创IP", 兔兔MC维辰软桃团
-http://192.168.0.111:35455/douyu/8266799
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202403/70c7954ef0df447aba55e5082884be08_big.jpg" group-title="一起看", 演唱会颜老师
 http://192.168.0.111:35455/douyu/11880223
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202404/f3a7d31533444956b3a4a0ed5d3666a8_big.jpg" group-title="原创IP", 兔兔MC维辰软桃团
+http://192.168.0.111:35455/douyu/8266799
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/97d9684a6e5ece5fdde3ff77c08931f1_big.jpg" group-title="一起看", 这夜空中最亮的星
 http://192.168.0.111:35455/douyu/9290755
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/ca5c676a22624704918926240dafd120_big.jpg" group-title="一起看", 胡椒粉的胡歌
@@ -419,10 +427,12 @@ http://192.168.0.111:35455/douyu/9617766
 http://192.168.0.111:35455/douyu/9651304
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/c3b8f2f80dfb4878b8a2bcfd1888bf58_big.jpg" group-title="原创IP", 卿离倾心
 http://192.168.0.111:35455/douyu/7286439
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9d0d7e65a9e643908b12c9fb2caa57af_big.jpg" group-title="原创IP", 宇宙探索飞船
-http://192.168.0.111:35455/douyu/9456028
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/95ad2986dc394cd698e43ab33b666348_big.jpg" group-title="原创IP", 3说电影
 http://192.168.0.111:35455/douyu/9643264
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9d0d7e65a9e643908b12c9fb2caa57af_big.jpg" group-title="原创IP", 宇宙探索飞船
+http://192.168.0.111:35455/douyu/9456028
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9c1877c8415e4503b5defc0e7ced6c9f_big.jpg" group-title="原创IP", 怪兽马提尼电影
+http://192.168.0.111:35455/douyu/9075333
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/71ae53c70e234dffa80f6ece3e98ae6b_big.jpg" group-title="原创IP", 芙芙家的洗碗君
 http://192.168.0.111:35455/douyu/9446706
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/25305116ae654fd885da4f2703dacbb2_big.jpg" group-title="原创IP", 拳叔二次元
@@ -433,8 +443,6 @@ http://192.168.0.111:35455/douyu/562225
 http://192.168.0.111:35455/douyu/9601429
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/bd593a00eb0944d6bb6e685d7a062b19_big.jpg" group-title="原创IP", 辽视欢乐大集锦
 http://192.168.0.111:35455/douyu/9403712
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/9c1877c8415e4503b5defc0e7ced6c9f_big.jpg" group-title="原创IP", 怪兽马提尼电影
-http://192.168.0.111:35455/douyu/9075333
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5030e5daeb564e8eac9dd60a2bde11e5_big.jpg" group-title="一起看", 小小甜的骑士
 http://192.168.0.111:35455/douyu/9236042
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/0416d3022fa448379cb52e37adbd4190_big.jpg" group-title="原创IP", 小小天才搞笑视频
@@ -443,14 +451,14 @@ http://192.168.0.111:35455/douyu/9419678
 http://192.168.0.111:35455/douyu/8060436
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/921847c999c34082a93275a009990ad6_big.jpg" group-title="原创IP", 李允儿er的助眠小窝
 http://192.168.0.111:35455/douyu/9038894
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/01_big.jpg" group-title="一起看", 阿飞滴
-http://192.168.0.111:35455/douyu/12327996
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="一起看", 是个小可爱iiii
 http://192.168.0.111:35455/douyu/9650782
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/37a8f14c757440289c67f14874f59372_big.jpg" group-title="原创IP", 历史经典烩
-http://192.168.0.111:35455/douyu/9487003
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/01_big.jpg" group-title="原创IP", 用户2979576101
 http://192.168.0.111:35455/douyu/9273031
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/37a8f14c757440289c67f14874f59372_big.jpg" group-title="原创IP", 历史经典烩
+http://192.168.0.111:35455/douyu/9487003
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/01_big.jpg" group-title="一起看", 阿飞滴
+http://192.168.0.111:35455/douyu/12327996
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/464c8cd0f9cb45a9b1ed2710e24bd981_big.jpg" group-title="原创IP", 万合鲜肉老师
 http://192.168.0.111:35455/douyu/9815091
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/e6a5f489b3544b40a21ce439fdfd03f6_big.jpg" group-title="原创IP", 暴走漫画
@@ -475,20 +483,20 @@ http://192.168.0.111:35455/douyu/2660125
 http://192.168.0.111:35455/douyu/2925610
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 龙视本山快乐营
 http://192.168.0.111:35455/douyu/9374865
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/308841fa40d14acc8169d58a9b2419a1_big.jpg" group-title="原创IP", 钓鱼大锋子
-http://192.168.0.111:35455/douyu/10074370
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/03536dadc60441ea93c9ec5ccf515977_big.jpg" group-title="原创IP", 爱好恐怖片的美男子
 http://192.168.0.111:35455/douyu/9280384
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/308841fa40d14acc8169d58a9b2419a1_big.jpg" group-title="原创IP", 钓鱼大锋子
+http://192.168.0.111:35455/douyu/10074370
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/991e97027f62448e98d15dd57319724f_big.jpg" group-title="原创IP", 培根悖论唠唠嗑
 http://192.168.0.111:35455/douyu/5354713
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201810/8bde5baacb4368e539a6d679e0f150d5_big.jpg" group-title="原创IP", 章的亲弟弟
 http://192.168.0.111:35455/douyu/9641152
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/2dfc46d4a3774738b730e754b5e6dac8_big.jpg" group-title="一起看", 壹丨哥
 http://192.168.0.111:35455/douyu/5692901
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/197c22424ab34a7196139bf314b81304_big.jpg" group-title="原创IP", 热影连连看
-http://192.168.0.111:35455/douyu/9388931
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/23_big.jpg" group-title="一起看", 用户7046912698
 http://192.168.0.111:35455/douyu/12065802
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/197c22424ab34a7196139bf314b81304_big.jpg" group-title="原创IP", 热影连连看
+http://192.168.0.111:35455/douyu/9388931
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201801/28/12/e62773db3d85bbf84e070e5b2e6ddc03_big.jpg" group-title="原创IP", 小明不背锅up
 http://192.168.0.111:35455/douyu/117854
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/8e5b5d2701714acabc4591751a63cfa9_big.jpg" group-title="一起看", 静静给你糖
@@ -513,38 +521,36 @@ http://192.168.0.111:35455/douyu/8415464
 http://192.168.0.111:35455/douyu/12025441
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/ccf8919b643448eda87dac3e460f794c_big.jpg" group-title="原创IP", 一目十影
 http://192.168.0.111:35455/douyu/3643605
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/df963d2253024975b7db25fe33311a27_big.jpg" group-title="原创IP", 好剧看不停
-http://192.168.0.111:35455/douyu/9388938
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="一起看", 用户6056099521
 http://192.168.0.111:35455/douyu/12065793
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201806/90cc1dbb58181d27e269b6517f6d9367_big.jpg" group-title="一起看", 陳阿俊
 http://192.168.0.111:35455/douyu/8647514
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/df963d2253024975b7db25fe33311a27_big.jpg" group-title="原创IP", 好剧看不停
+http://192.168.0.111:35455/douyu/9388938
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/15_big.jpg" group-title="一起看", illit礼
 http://192.168.0.111:35455/douyu/12065549
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/8cf198cc7a294ce3aae7e9e7e01f6420_big.jpg" group-title="原创IP", 菇菇说过
 http://192.168.0.111:35455/douyu/8788687
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ca34592e6c69405f937e727ca0459f1e_big.jpg" group-title="原创IP", 开心嘴炮
+http://192.168.0.111:35455/douyu/9026377
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/34d586eaf0c74d818443ae2c0f42880e_big.jpg" group-title="原创IP", 老秦说秦
 http://192.168.0.111:35455/douyu/9650131
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/b0c65550723a4ebc821ccdcd6f6d3445_big.jpg" group-title="原创IP", 敢来碰我
 http://192.168.0.111:35455/douyu/10308225
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/6ed7b556967e43306c5cfc7ca13bc90a_big.jpg" group-title="一起看", 分享备用
-http://192.168.0.111:35455/douyu/5804577
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6a6ce0f60c304e7e8b43d8fe326976ac_big.jpg" group-title="原创IP", 欢乐小饭米粒
 http://192.168.0.111:35455/douyu/9403690
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/33147cd948244f08badec04dee7d0598_big.jpg" group-title="原创IP", 睡丝虫
-http://192.168.0.111:35455/douyu/10308234
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ca34592e6c69405f937e727ca0459f1e_big.jpg" group-title="原创IP", 开心嘴炮
-http://192.168.0.111:35455/douyu/9026377
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/6ed7b556967e43306c5cfc7ca13bc90a_big.jpg" group-title="一起看", 分享备用
+http://192.168.0.111:35455/douyu/5804577
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 嘴巴鼻子没有沟
+http://192.168.0.111:35455/douyu/10217984
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/5a3bc4aa4db3426582a9f23a46f7264c_big.jpg" group-title="一起看", 我只喜欢团团呀
 http://192.168.0.111:35455/douyu/11752416
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/a1aaf1b17d3e4921a25643a151d291a3_big.jpg" group-title="一起看", zzttouo
 http://192.168.0.111:35455/douyu/11874733
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 嘴巴鼻子没有沟
-http://192.168.0.111:35455/douyu/10217984
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/33147cd948244f08badec04dee7d0598_big.jpg" group-title="原创IP", 睡丝虫
+http://192.168.0.111:35455/douyu/10308234
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/0ccfe73781414c9a99790c33194ce4ba_big.jpg" group-title="一起看", Aan2619742
 http://192.168.0.111:35455/douyu/11753064
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/4fc8207d9055426089292caabdddfa6b_big.jpg" group-title="一起看", 爱唱跳Rap的胖虎
-http://192.168.0.111:35455/douyu/5895598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/18_big.jpg" group-title="一起看", 哦吼哦吼哦吼AA
 http://192.168.0.111:35455/douyu/11752973
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202305/90924dc57369433892118e7ebda803f1_big.jpg" group-title="一起看", 守约罒
@@ -553,32 +559,32 @@ http://192.168.0.111:35455/douyu/11597921
 http://192.168.0.111:35455/douyu/9174097
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/d61babb2c6a84615811f057e62d059aa_big.jpg" group-title="一起看", 一只兔叽呀丶
 http://192.168.0.111:35455/douyu/7266829
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/56d2fa9e01d94dbea284955fe76bde56_big.jpg" group-title="原创IP", 中二日记搞笑动画
+http://192.168.0.111:35455/douyu/9505575
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/6261e0c2fc8748008257ff02cf275803_big.jpg" group-title="一起看", 阿亮很神奇
 http://192.168.0.111:35455/douyu/11752921
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/97d98ce41d9c44d695869993317f5f24_big.jpg" group-title="原创IP", 俗哥看电影
 http://192.168.0.111:35455/douyu/2161818
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/31973c0b74264826b33faaa09dc6d1a6_big.jpg" group-title="一起看", 用户8440489197
 http://192.168.0.111:35455/douyu/11752511
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/06/17/ac89a278ab80b0042f0d1d99ba752f73_big.jpg" group-title="原创IP", 奥雷卡尔克斯
+http://192.168.0.111:35455/douyu/1224356
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/12_big.jpg" group-title="原创IP", 辽视组团上春晚
 http://192.168.0.111:35455/douyu/9406416
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/05/05/667df3b7d2a6e23b7519c33480b0d969_big.jpg" group-title="一起看", bestthings丶放假
 http://192.168.0.111:35455/douyu/11752532
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/06/17/ac89a278ab80b0042f0d1d99ba752f73_big.jpg" group-title="原创IP", 奥雷卡尔克斯
-http://192.168.0.111:35455/douyu/1224356
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/56d2fa9e01d94dbea284955fe76bde56_big.jpg" group-title="原创IP", 中二日记搞笑动画
-http://192.168.0.111:35455/douyu/9505575
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/fe1dbb8896c84281a61176d9975e5785_big.jpg" group-title="原创IP", 老邪说电影
+http://192.168.0.111:35455/douyu/9222870
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/49ca6755bf4b428fb5b571e7240933ed_big.jpg" group-title="原创IP", 工藤新医heart
+http://192.168.0.111:35455/douyu/8741860
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/9c7852c2f8ba4d11b6b774bec168db06_big.jpg" group-title="原创IP", 骑毛驴的八戒
+http://192.168.0.111:35455/douyu/1979257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/c529281d53624b14a1c49740eddb36b1_big.jpg" group-title="原创IP", 荒野伊甸园
 http://192.168.0.111:35455/douyu/9611578
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/2d8bf1a5134c414688b14f693b044f1b_big.jpg" group-title="原创IP", 林家渔妹
 http://192.168.0.111:35455/douyu/9348805
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/49ca6755bf4b428fb5b571e7240933ed_big.jpg" group-title="原创IP", 工藤新医heart
-http://192.168.0.111:35455/douyu/8741860
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/fe1dbb8896c84281a61176d9975e5785_big.jpg" group-title="原创IP", 老邪说电影
-http://192.168.0.111:35455/douyu/9222870
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202306/c72e0724325e4736910d1ef2cbeade25_big.jpg" group-title="一起看", 微微好顶
 http://192.168.0.111:35455/douyu/8765855
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/9c7852c2f8ba4d11b6b774bec168db06_big.jpg" group-title="原创IP", 骑毛驴的八戒
-http://192.168.0.111:35455/douyu/1979257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/28fb1250778247c78fd4014f788656b7_big.jpg" group-title="原创IP", 圈踢动漫
 http://192.168.0.111:35455/douyu/1952680
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/14/18/8f52af970e7dd0b1aedbd3e4facd8cea_big.jpg" group-title="原创IP", 敬汉卿250
@@ -595,10 +601,12 @@ http://192.168.0.111:35455/douyu/1499005
 http://192.168.0.111:35455/douyu/9123570
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/e8ebbdf80dd048439bf63bf41761301f_big.jpg" group-title="原创IP", 南国小豆豆
 http://192.168.0.111:35455/douyu/3310454
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/15945f9e65ae4596be17d0fd049e5c0f_big.jpg" group-title="原创IP", 大坑侦探社
-http://192.168.0.111:35455/douyu/9440339
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/b03fb98d1552415da37d09bb53b46499_big.jpg" group-title="原创IP", 钓鱼欧尼AnglerJJung
 http://192.168.0.111:35455/douyu/10616765
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/15945f9e65ae4596be17d0fd049e5c0f_big.jpg" group-title="原创IP", 大坑侦探社
+http://192.168.0.111:35455/douyu/9440339
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202406/4fc8207d9055426089292caabdddfa6b_big.jpg" group-title="一起看", 爱唱跳Rap的胖虎
+http://192.168.0.111:35455/douyu/5895598
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/dde82c1d612f46228c416a46fbed24fe_big.jpg" group-title="原创IP", 墨逗电影
 http://192.168.0.111:35455/douyu/9614847
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/7523db3b3c2f4113ae98f454082a27db_big.jpg" group-title="原创IP", Svip丶YoYo
@@ -625,22 +633,16 @@ http://192.168.0.111:35455/douyu/10103411
 http://192.168.0.111:35455/douyu/9391292
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/b4bcf6763d0b4b07a94c4562cde9e497_big.jpg" group-title="原创IP", 逗米说电影
 http://192.168.0.111:35455/douyu/421222
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/444b67f3241c4755a37503b19a6e4a86_big.jpg" group-title="原创IP", 爱旅行的巧克力
-http://192.168.0.111:35455/douyu/9653323
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/83fe35e42da443fd9dc166edb4b5e245_big.jpg" group-title="原创IP", 用青春去旅行
 http://192.168.0.111:35455/douyu/9629423
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/07/17/8cdc453a37d1235bc391b5815fb7e03c_big.jpg" group-title="原创IP", 粤知一二
-http://192.168.0.111:35455/douyu/2940299
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/44cace4585a94457bf88138c6274ccb7_big.jpg" group-title="原创IP", 小司马说剧
-http://192.168.0.111:35455/douyu/9660127
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/977f430edf5d0297d374b1cd207a7847_big.jpg" group-title="一起看", 咸鱼翻身是另一面咸鱼
-http://192.168.0.111:35455/douyu/527076
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/98033ebc1c3b4c8c890a80ea6f4ba396_big.jpg" group-title="原创IP", 赶海大弟
-http://192.168.0.111:35455/douyu/9348766
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/10094121aa3f4a79bd9b5af64bb17233_big.jpg" group-title="原创IP", 铁血影视汇
-http://192.168.0.111:35455/douyu/9649701
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202401/5d585f7e9eca49cc9b479d5b8921c1b3_big.jpg" group-title="原创IP", 快看张不止
+http://192.168.0.111:35455/douyu/8413226
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201704/18/15/9a58c4abcec90b322060cddf81d53a68_big.jpg" group-title="原创IP", 胥渡吧直播号
 http://192.168.0.111:35455/douyu/2040822
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/44cace4585a94457bf88138c6274ccb7_big.jpg" group-title="原创IP", 小司马说剧
+http://192.168.0.111:35455/douyu/9660127
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/98033ebc1c3b4c8c890a80ea6f4ba396_big.jpg" group-title="原创IP", 赶海大弟
+http://192.168.0.111:35455/douyu/9348766
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/7ddd47c929294620a23c38d946d064e4_big.jpg" group-title="原创IP", 史君观影
 http://192.168.0.111:35455/douyu/9644669
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/348c1eded85a40a2a9dc7ddaf5626c24_big.jpg" group-title="一起看", 傲翔帝龙龙
@@ -651,12 +653,6 @@ http://192.168.0.111:35455/douyu/850030
 http://192.168.0.111:35455/douyu/9498354
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/25/10/4e66057735396c71d33a9632f9232158_big.jpg" group-title="原创IP", 郑云工作室
 http://192.168.0.111:35455/douyu/2995636
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/12d5026cff3644fcb5150a7fbf6dfc43_big.jpg" group-title="原创IP", 篮球过人技巧
-http://192.168.0.111:35455/douyu/9406897
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202401/5d585f7e9eca49cc9b479d5b8921c1b3_big.jpg" group-title="原创IP", 快看张不止
-http://192.168.0.111:35455/douyu/8413226
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/11c28b16d22744c5b85e2171d02d9b41_big.jpg" group-title="原创IP", 3030相声小品
-http://192.168.0.111:35455/douyu/9286868
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/54e29f3130464ebfbef549e82674b36d_big.jpg" group-title="原创IP", 植物椿de房间
 http://192.168.0.111:35455/douyu/9771247
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/f70a86d2e0084fd5968d7f1820102c3e_big.jpg" group-title="原创IP", 百万巨星麒麟君
@@ -665,14 +661,16 @@ http://192.168.0.111:35455/douyu/3431701
 http://192.168.0.111:35455/douyu/10308242
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/19f08ff19c4e4ccd965079b46e4f193a_big.jpg" group-title="原创IP", 小陶气说动漫
 http://192.168.0.111:35455/douyu/9527700
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 小猪搞笑精选
-http://192.168.0.111:35455/douyu/10329752
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/11c28b16d22744c5b85e2171d02d9b41_big.jpg" group-title="原创IP", 3030相声小品
+http://192.168.0.111:35455/douyu/9286868
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/f68b51cf242a450881c5ed55318b759c_big.jpg" group-title="原创IP", 柠檬檬檬儿vlog
 http://192.168.0.111:35455/douyu/9624845
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/60ae863333dc48d58f1782ce9622e137_big.jpg" group-title="原创IP", 猛禽西伯利亚白猿
 http://192.168.0.111:35455/douyu/10074407
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/aaf3cca557b34a869afae4c0f9f41df4_big.jpg" group-title="原创IP", 日本女子摔角
 http://192.168.0.111:35455/douyu/425809
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/12d5026cff3644fcb5150a7fbf6dfc43_big.jpg" group-title="原创IP", 篮球过人技巧
+http://192.168.0.111:35455/douyu/9406897
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/0c9b9433229b436499de880ba01fb235_big.jpg" group-title="原创IP", 去种田的向凹凸
 http://192.168.0.111:35455/douyu/9570290
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201609/29/11/3836c4a1c9478c2dbfbc6e382c8a2fbe_big.jpg" group-title="一起看", 顺其自然飞
@@ -689,100 +687,108 @@ http://192.168.0.111:35455/douyu/10007687
 http://192.168.0.111:35455/douyu/9339300
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/474137bc275b4e51bfbb788854daa112_big.jpg" group-title="原创IP", 方攵日央木几
 http://192.168.0.111:35455/douyu/9942574
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/1f809396fd024dbda5f39d55d52997c8_big.jpg" group-title="原创IP", 丶最緊要好玩
+http://192.168.0.111:35455/douyu/6361974
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/86faf14bc9dd4521bae1fce8829f2eb0_big.jpg" group-title="原创IP", 漫威君
 http://192.168.0.111:35455/douyu/1713615
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="原创IP", 内蒙古欢乐驿站
 http://192.168.0.111:35455/douyu/9365077
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/1f809396fd024dbda5f39d55d52997c8_big.jpg" group-title="原创IP", 丶最緊要好玩
-http://192.168.0.111:35455/douyu/6361974
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/c6ecf57521904648a5b3a7d0445cc75d_big.jpg" group-title="原创IP", 纪录片之家字幕组
+http://192.168.0.111:35455/douyu/8834003
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/1780b481436a4e0da04a1acf1943ff38_big.jpg" group-title="原创IP", 果冻萌萌的丶
 http://192.168.0.111:35455/douyu/9607934
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5a57e546b2b14d2d9ba390d6305b8f0c_big.jpg" group-title="原创IP", 沉郁观影
-http://192.168.0.111:35455/douyu/9393577
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/444b67f3241c4755a37503b19a6e4a86_big.jpg" group-title="原创IP", 爱旅行的巧克力
+http://192.168.0.111:35455/douyu/9653323
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/cf34bc6315cc4c6b91533c10af270efc_big.jpg" group-title="原创IP", 大狼狗刨祖坟
 http://192.168.0.111:35455/douyu/10217975
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bd44144ecbc64df7a02f58abdeb238e8_big.jpg" group-title="原创IP", 北大落说大片
 http://192.168.0.111:35455/douyu/8828811
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/c6ecf57521904648a5b3a7d0445cc75d_big.jpg" group-title="原创IP", 纪录片之家字幕组
-http://192.168.0.111:35455/douyu/8834003
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/28/11/93c5f6cc787f56fbb12dae062f5727ee_big.jpg" group-title="原创IP", 独立鱼电影
+http://192.168.0.111:35455/douyu/2413555
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/e40cc2e0e80242b494ef4a9408504d52_big.jpg" group-title="原创IP", 喵妹说电影
+http://192.168.0.111:35455/douyu/9312432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/ecd2b2d0199b495c9e8c128383384b42_big.jpg" group-title="原创IP", 搞笑动漫大本营
 http://192.168.0.111:35455/douyu/9650181
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/000/01/09/68_avatar_big.jpg" group-title="原创IP", 绿阿掌
 http://192.168.0.111:35455/douyu/2365
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/13_big.jpg" group-title="原创IP", 用户7719601289
 http://192.168.0.111:35455/douyu/9403738
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/5f0cd1d4fec84ee0aa1f0b9520744aa1_big.jpg" group-title="原创IP", 渔农泰叔
-http://192.168.0.111:35455/douyu/9348784
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/28/11/93c5f6cc787f56fbb12dae062f5727ee_big.jpg" group-title="原创IP", 独立鱼电影
-http://192.168.0.111:35455/douyu/2413555
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/d188025b789841219bb8bb5e8a0599a3_big.jpg" group-title="原创IP", 朱一旦的枯燥生活v
-http://192.168.0.111:35455/douyu/7907979
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/25_big.jpg" group-title="原创IP", 俩个麻瓜
 http://192.168.0.111:35455/douyu/10121755
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/d188025b789841219bb8bb5e8a0599a3_big.jpg" group-title="原创IP", 朱一旦的枯燥生活v
+http://192.168.0.111:35455/douyu/7907979
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/622d4c75ff34411eb0d6a1ab3168b4c1_big.jpg" group-title="原创IP", 唐司令说电影
 http://192.168.0.111:35455/douyu/8774345
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/4ce6f361eb76420babd4400632de99e9_big.jpg" group-title="原创IP", 猫猫村长
-http://192.168.0.111:35455/douyu/4716
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c7d253e144c04a2c8e4806ecd680dc19_big.jpg" group-title="原创IP", 文侠灬楊楊
+http://192.168.0.111:35455/douyu/10317257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/dcbe9a5a580742a191c77c0e0e5e8807_big.jpg" group-title="一起看", 浩贤说电影
 http://192.168.0.111:35455/douyu/10535867
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1c6390a7bbae4232bc661078ac6ed310_big.jpg" group-title="原创IP", 勤时铭悦
 http://192.168.0.111:35455/douyu/8790357
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b2eea687f56447a899d27bf8c0244a33_big.jpg" group-title="原创IP", 长片短解
-http://192.168.0.111:35455/douyu/9410946
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/aaceeee916304e97b09d3c7dbb84776e_big.jpg" group-title="原创IP", 只关于篮球的只老师
-http://192.168.0.111:35455/douyu/9367541
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/59fa6f9be088478d995459690cf306f8_big.jpg" group-title="原创IP", 来呀官人V
 http://192.168.0.111:35455/douyu/9986305
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/977f430edf5d0297d374b1cd207a7847_big.jpg" group-title="一起看", 咸鱼翻身是另一面咸鱼
+http://192.168.0.111:35455/douyu/527076
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b2eea687f56447a899d27bf8c0244a33_big.jpg" group-title="原创IP", 长片短解
+http://192.168.0.111:35455/douyu/9410946
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/10094121aa3f4a79bd9b5af64bb17233_big.jpg" group-title="原创IP", 铁血影视汇
+http://192.168.0.111:35455/douyu/9649701
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/aaceeee916304e97b09d3c7dbb84776e_big.jpg" group-title="原创IP", 只关于篮球的只老师
+http://192.168.0.111:35455/douyu/9367541
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/c98bc36a2a234acc8e7d14511365d622_big.jpg" group-title="原创IP", 小艾大叔
+http://192.168.0.111:35455/douyu/9314668
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/07/17/8cdc453a37d1235bc391b5815fb7e03c_big.jpg" group-title="原创IP", 粤知一二
+http://192.168.0.111:35455/douyu/2940299
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/4ce6f361eb76420babd4400632de99e9_big.jpg" group-title="原创IP", 猫猫村长
+http://192.168.0.111:35455/douyu/4716
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/a2400e460a93489db8c923d7072e1dce_big.jpg" group-title="原创IP", dy荒野建造
+http://192.168.0.111:35455/douyu/10039437
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/b6683f2f4e044c72ba3069494d80e8b9_big.jpg" group-title="原创IP", 暴躁少女零九
 http://192.168.0.111:35455/douyu/9065302
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202010/e40cc2e0e80242b494ef4a9408504d52_big.jpg" group-title="原创IP", 喵妹说电影
-http://192.168.0.111:35455/douyu/9312432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/e7361ee0e674412c99ab0c208d19008b_big.jpg" group-title="原创IP", 同学请坐吧
 http://192.168.0.111:35455/douyu/3736649
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/13_big.jpg" group-title="原创IP", 影视集装箱
 http://192.168.0.111:35455/douyu/8651489
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/c98bc36a2a234acc8e7d14511365d622_big.jpg" group-title="原创IP", 小艾大叔
-http://192.168.0.111:35455/douyu/9314668
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/55ebb2cb91d543b6935e9a4d15ad472b_big.jpg" group-title="原创IP", 阎君说剧
 http://192.168.0.111:35455/douyu/10475459
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/dcdb20afff874193a1e59a7e4d5e5b9c_big.jpg" group-title="原创IP", 蓝光乐队
+http://192.168.0.111:35455/douyu/9572351
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a02b68316e624011ae3bb23eabafe3a9_big.jpg" group-title="原创IP", 蓝星人一ET
 http://192.168.0.111:35455/douyu/9431727
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c7d253e144c04a2c8e4806ecd680dc19_big.jpg" group-title="原创IP", 文侠灬楊楊
-http://192.168.0.111:35455/douyu/10317257
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/4e2558e0f0ba40149ebdce834d3a531b_big.jpg" group-title="一起看", 芒果酱Mangoo
 http://192.168.0.111:35455/douyu/138959
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/91ceeaf5f3304a4fb6ec627e60bb680d_big.jpg" group-title="原创IP", 多多看车
-http://192.168.0.111:35455/douyu/4921957
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/e53998f87f0545fa9dc55f1ce1903176_big.jpg" group-title="原创IP", 花花与三猫CatLive
+http://192.168.0.111:35455/douyu/7348194
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/31c853d5c63541c6818b54ba487c0e13_big.jpg" group-title="原创IP", 喜剧电影笑不停
 http://192.168.0.111:35455/douyu/10298856
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 小猪搞笑精选
+http://192.168.0.111:35455/douyu/10329752
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/22_big.jpg" group-title="原创IP", 强人说笑
 http://192.168.0.111:35455/douyu/10329713
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/babd1b54139a4041bd0c5f2042938ac5_big.jpg" group-title="原创IP", 影视笑工场
 http://192.168.0.111:35455/douyu/10298846
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/5f342990cc3c47409aef3e28ed04b0d9_big.jpg" group-title="原创IP", 老王忆经典
-http://192.168.0.111:35455/douyu/9687733
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/c96e471554994e03b8325910fcfc2063_big.jpg" group-title="原创IP", 夏利俊EWE路亚
 http://192.168.0.111:35455/douyu/9974427
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/5f342990cc3c47409aef3e28ed04b0d9_big.jpg" group-title="原创IP", 老王忆经典
+http://192.168.0.111:35455/douyu/9687733
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/092b8cedb6d95288d834e2061c77114e_big.jpg" group-title="原创IP", 我叫萌迪迪V
 http://192.168.0.111:35455/douyu/5354705
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/797aadb3eea44410b61026e8786d50aa_big.jpg" group-title="原创IP", 探奇录
 http://192.168.0.111:35455/douyu/9746763
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/91ceeaf5f3304a4fb6ec627e60bb680d_big.jpg" group-title="原创IP", 多多看车
+http://192.168.0.111:35455/douyu/4921957
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/1f4622dc13c5468bbf1ae29fdb2655e6_big.jpg" group-title="原创IP", 荒野避难所
 http://192.168.0.111:35455/douyu/10234334
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/e53998f87f0545fa9dc55f1ce1903176_big.jpg" group-title="原创IP", 花花与三猫CatLive
-http://192.168.0.111:35455/douyu/7348194
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/dd7f9f18efb24e7c85fb16946d7eeee6_big.jpg" group-title="原创IP", 槽槽说电影
 http://192.168.0.111:35455/douyu/752376
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/a311ca1d74404a4dae76a16b4be6caf6_big.jpg" group-title="原创IP", 尉迟杰影评
 http://192.168.0.111:35455/douyu/8850682
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/ed08709c31d84d5285c59ed18474f180_big.jpg" group-title="原创IP", 大蓝雀
 http://192.168.0.111:35455/douyu/8656759
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/a2400e460a93489db8c923d7072e1dce_big.jpg" group-title="原创IP", dy荒野建造
-http://192.168.0.111:35455/douyu/10039437
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/5f0cd1d4fec84ee0aa1f0b9520744aa1_big.jpg" group-title="原创IP", 渔农泰叔
+http://192.168.0.111:35455/douyu/9348784
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/2bd62a0e288d4a4c94e4b57a3d6ffa26_big.jpg" group-title="原创IP", 神烦xp
 http://192.168.0.111:35455/douyu/8286679
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/dcdb20afff874193a1e59a7e4d5e5b9c_big.jpg" group-title="原创IP", 蓝光乐队
-http://192.168.0.111:35455/douyu/9572351
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6f10533711ed4516b00561d3e60f35c6_big.jpg" group-title="原创IP", 岚FLL
 http://192.168.0.111:35455/douyu/9409703
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/df97190e2eac494d91d80367020a308a_big.jpg" group-title="原创IP", 民间高手show
@@ -795,8 +801,6 @@ http://192.168.0.111:35455/douyu/9629943
 http://192.168.0.111:35455/douyu/9065082
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/372a7e3de4204501ba4abd296b41c71f_big.jpg" group-title="原创IP", 看电影了没V
 http://192.168.0.111:35455/douyu/9562616
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/eed279f3815d4f2abe0ed43196bd4100_big.jpg" group-title="原创IP", C座802
-http://192.168.0.111:35455/douyu/8768943
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/54dff59a977a466a9258597859d2d3d0_big.jpg" group-title="原创IP", 阿忙赶海
 http://192.168.0.111:35455/douyu/9348876
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/7a943d6911f84126924d1c13ac2ec050_big.jpg" group-title="原创IP", 麻雀喳喳野行记
@@ -805,8 +809,6 @@ http://192.168.0.111:35455/douyu/10088966
 http://192.168.0.111:35455/douyu/9368265
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/0c54a66ffcfd49289a6836b745a87ad6_big.jpg" group-title="原创IP", 哇萨比抓马WD
 http://192.168.0.111:35455/douyu/8808506
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="原创IP", 快哥说老片
-http://192.168.0.111:35455/douyu/10411518
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/acb0fc6d19364c92aba5a91bccf3a095_big.jpg" group-title="原创IP", 国际吸猫协会
 http://192.168.0.111:35455/douyu/8657834
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/62815784f19d4acba22f45795293af6e_big.jpg" group-title="原创IP", 东倾电影
@@ -817,16 +819,20 @@ http://192.168.0.111:35455/douyu/9272327
 http://192.168.0.111:35455/douyu/3714736
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/f3303d006e4e4a34b38fe425884bcab9_big.jpg" group-title="原创IP", 斗鱼恐怖游戏合集
 http://192.168.0.111:35455/douyu/10401481
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/00f4efd71aef4a26b13e4cdd6d0cc72b_big.jpg" group-title="原创IP", 童乐说电影
-http://192.168.0.111:35455/douyu/9660704
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/3712e120be174bd19e527d393a687d94_big.jpg" group-title="原创IP", 荒野万池王
 http://192.168.0.111:35455/douyu/9544576
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/00f4efd71aef4a26b13e4cdd6d0cc72b_big.jpg" group-title="原创IP", 童乐说电影
+http://192.168.0.111:35455/douyu/9660704
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9a92ed30466244368e4a916429e69d89_big.jpg" group-title="原创IP", 九叔说电影v
 http://192.168.0.111:35455/douyu/9348282
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="原创IP", 龙视欢乐英雄转
 http://192.168.0.111:35455/douyu/9374836
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/79549e3fe0c442b7844ec157a39b77ac_big.jpg" group-title="原创IP", 微笑影视解说
+http://192.168.0.111:35455/douyu/9476790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/13_big.jpg" group-title="原创IP", 龙视开心麻花街
 http://192.168.0.111:35455/douyu/9374862
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/77f613dec1f247a899a60d5a0d212f20_big.jpg" group-title="原创IP", 萌宠妙妙屋
+http://192.168.0.111:35455/douyu/8653533
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/8317f026f990405e91b297eb18075691_big.jpg" group-title="原创IP", 农村幺妹儿
 http://192.168.0.111:35455/douyu/9344884
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201912/0133868f5e574ccda0fdd93868d76724_big.jpg" group-title="原创IP", 恰饭橘
@@ -835,6 +841,8 @@ http://192.168.0.111:35455/douyu/7974136
 http://192.168.0.111:35455/douyu/9396672
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/516d249e928d49f18a21886694f13b7c_big.jpg" group-title="原创IP", 老鱼说剧
 http://192.168.0.111:35455/douyu/9994377
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/5a57e546b2b14d2d9ba390d6305b8f0c_big.jpg" group-title="原创IP", 沉郁观影
+http://192.168.0.111:35455/douyu/9393577
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/43c31526c6f74a119cc8d2658563327b_big.jpg" group-title="原创IP", 怪味爆米花电影
 http://192.168.0.111:35455/douyu/9422144
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/a070133817c746609848d0396d1d4799_big.jpg" group-title="原创IP", 松轩说电影
@@ -855,8 +863,6 @@ http://192.168.0.111:35455/douyu/9399887
 http://192.168.0.111:35455/douyu/8662915
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/0338612bac1a4d0fb92be53e1f8d309e_big.jpg" group-title="原创IP", 野行涛哥V
 http://192.168.0.111:35455/douyu/9329608
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/77f613dec1f247a899a60d5a0d212f20_big.jpg" group-title="原创IP", 萌宠妙妙屋
-http://192.168.0.111:35455/douyu/8653533
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201610/26/16/c10d88f7afbea0fcda3fb75cf5424a9f_big.jpg" group-title="原创IP", 酷酷的滕
 http://192.168.0.111:35455/douyu/1286383
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/8f4319d5dcd74a8187eec7d08adb983a_big.jpg" group-title="原创IP", 尽整没用D
@@ -867,10 +873,12 @@ http://192.168.0.111:35455/douyu/9445279
 http://192.168.0.111:35455/douyu/2039501
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202109/ddba3d5ace034677be4efbac3f25d325_big.jpg" group-title="原创IP", 正宗吔汁吔树牌
 http://192.168.0.111:35455/douyu/10217953
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/79549e3fe0c442b7844ec157a39b77ac_big.jpg" group-title="原创IP", 微笑影视解说
-http://192.168.0.111:35455/douyu/9476790
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/fbfe8e4db1834e33aab342addb357769_big.jpg" group-title="原创IP", 哈利影视
+http://192.168.0.111:35455/douyu/8475821
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/f940cc1e2120434da9ea9e6e44aaa297_big.jpg" group-title="原创IP", 经典拳赛
 http://192.168.0.111:35455/douyu/9412138
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="原创IP", 快哥说老片
+http://192.168.0.111:35455/douyu/10411518
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/10_big.jpg" group-title="原创IP", 鄂东老男孩
 http://192.168.0.111:35455/douyu/8837707
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/b92537d79eb042b3aa7f983ab8eb3c90_big.jpg" group-title="原创IP", 多多其木格
@@ -897,22 +905,22 @@ http://192.168.0.111:35455/douyu/9170147
 http://192.168.0.111:35455/douyu/9561992
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201806/qi4n32sc4cbsiht3174xk586wlixmg3n_big.jpg" group-title="原创IP", 管哥视频
 http://192.168.0.111:35455/douyu/10181584
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/fbfe8e4db1834e33aab342addb357769_big.jpg" group-title="原创IP", 哈利影视
-http://192.168.0.111:35455/douyu/8475821
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/eed279f3815d4f2abe0ed43196bd4100_big.jpg" group-title="原创IP", C座802
+http://192.168.0.111:35455/douyu/8768943
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/9437f8b1623f4607806235da45be697b_big.jpg" group-title="原创IP", 科幻战舰
+http://192.168.0.111:35455/douyu/8772060
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/08112cb19406446591ec4d7c2b47906a_big.jpg" group-title="原创IP", 阿福ThomasV
 http://192.168.0.111:35455/douyu/9194089
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg" group-title="原创IP", 电影吐槽汇
 http://192.168.0.111:35455/douyu/9447668
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/c4d3e15454ec4cc8898552d3b461d7b9_big.jpg" group-title="原创IP", 沫子瞪片
-http://192.168.0.111:35455/douyu/8783035
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/9437f8b1623f4607806235da45be697b_big.jpg" group-title="原创IP", 科幻战舰
-http://192.168.0.111:35455/douyu/8772060
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/c558d7bf18b14324af40431245264331_big.jpg" group-title="原创IP", 有部电影儿
 http://192.168.0.111:35455/douyu/9736479
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/eb9055aff4c24ce28b7247ba9eaaf680_big.jpg" group-title="原创IP", 中国喜剧力量
 http://192.168.0.111:35455/douyu/9403781
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/4ca87a8c2c184fef911700aff5cf141d_big.jpg" group-title="原创IP", 农村一级野钓大师
 http://192.168.0.111:35455/douyu/9433591
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/c4d3e15454ec4cc8898552d3b461d7b9_big.jpg" group-title="原创IP", 沫子瞪片
+http://192.168.0.111:35455/douyu/8783035
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/eff32920553c449fb9bd58c14267f1e3_big.jpg" group-title="原创IP", 大熊观影
 http://192.168.0.111:35455/douyu/8851140
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/810c6c7b1c9c4f53ac546835baf466f9_big.jpg" group-title="原创IP", 五分钟电影汇
@@ -955,10 +963,10 @@ http://192.168.0.111:35455/douyu/3715426
 http://192.168.0.111:35455/douyu/5192695
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/2cd7b2d8234940429644b95d4461a51c_big.jpg" group-title="原创IP", Fatal飞雪
 http://192.168.0.111:35455/douyu/8813596
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/26dc098fe3724d529c750038011760de_big.jpg" group-title="原创IP", 雨忆动漫
+http://192.168.0.111:35455/douyu/9568700
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202007/350413a55d974eda93ce9c885956244a_big.jpg" group-title="原创IP", 郭云神奇
 http://192.168.0.111:35455/douyu/8694831
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/2453876f17a24160a0c3275c2ab7fe16_big.jpg" group-title="原创IP", 阿松撩剧
-http://192.168.0.111:35455/douyu/8880843
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/80c9532bb00c4ad3b70ceb4b681f0cbb_big.jpg" group-title="原创IP", 雪輝TnT
 http://192.168.0.111:35455/douyu/8936207
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/59f31b41e5e9407ca7250ec4a6b30fd2_big.jpg" group-title="原创IP", 17号说动漫
@@ -967,20 +975,16 @@ http://192.168.0.111:35455/douyu/9822277
 http://192.168.0.111:35455/douyu/549693
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/8de0e3eb8e0c435bb9c60674665479af_big.jpg" group-title="原创IP", 我叫孙火旺
 http://192.168.0.111:35455/douyu/9770949
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5d6c1395c02d4e6995a6b2259f725da2_big.jpg" group-title="原创IP", 画渣花小烙
-http://192.168.0.111:35455/douyu/9072066
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/d8ad9c24c9ae4509b4aa263c197e7353_big.jpg" group-title="原创IP", 戴萌兔
 http://192.168.0.111:35455/douyu/9522315
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/e7bad7af4e644672a1e1e9d61fd0bad7_big.jpg" group-title="原创IP", 娱乐扒叔
 http://192.168.0.111:35455/douyu/9624581
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/99c9757ff46c42ee97fe02a9006626cb_big.jpg" group-title="原创IP", 山里记
-http://192.168.0.111:35455/douyu/9410236
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/1c29bc7814e249f9b21aff8b4fc26262_big.jpg" group-title="原创IP", 天才霸总的狐崽崽
 http://192.168.0.111:35455/douyu/10394922
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4fe6508044e04eb8a3488a696050f19b_big.jpg" group-title="原创IP", 戒喵中心
 http://192.168.0.111:35455/douyu/8658212
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/26dc098fe3724d529c750038011760de_big.jpg" group-title="原创IP", 雨忆动漫
-http://192.168.0.111:35455/douyu/9568700
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/4a61dd0a0aa84ff1abcde240e83b673c_big.jpg" group-title="原创IP", 小侠来了
+http://192.168.0.111:35455/douyu/9734042
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/24_big.jpg" group-title="原创IP", 风云I人物志
 http://192.168.0.111:35455/douyu/9970047
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/cf634cd7dbff4305b9ff2ceccda79c22_big.jpg" group-title="原创IP", 崽崽撩电影
@@ -993,6 +997,8 @@ http://192.168.0.111:35455/douyu/9169624
 http://192.168.0.111:35455/douyu/9647834
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202306/0b3868dfec7e4958adbbca73c3336225_big.jpg" group-title="原创IP", OE档案
 http://192.168.0.111:35455/douyu/6725858
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/905a36f29c864fadbab39aab7cca3a9b_big.jpg" group-title="一起看", CmoStar
+http://192.168.0.111:35455/douyu/10282256
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/09/10/4e51d8b9c068fa378b852552e5ef2840_big.jpg" group-title="原创IP", 宇宙无敌韩三金
 http://192.168.0.111:35455/douyu/3194372
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/f63a04e61bdc489b9363598fbd6fc4a2_big.jpg" group-title="原创IP", 阿坤在努力
@@ -1003,8 +1009,6 @@ http://192.168.0.111:35455/douyu/613850
 http://192.168.0.111:35455/douyu/9272077
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/09142828c690419abc9a627ef86d5e25_big.jpg" group-title="原创IP", 制造show
 http://192.168.0.111:35455/douyu/9550226
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/905a36f29c864fadbab39aab7cca3a9b_big.jpg" group-title="一起看", CmoStar
-http://192.168.0.111:35455/douyu/10282256
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b1e0df1d09127008e65884e1ebb20425_big.jpg" group-title="原创IP", 鸡哥聊电影
 http://192.168.0.111:35455/douyu/5067952
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/933183e0408d49b79c9a74247e3eea49_big.jpg" group-title="原创IP", 到远方旅行
@@ -1019,6 +1023,8 @@ http://192.168.0.111:35455/douyu/563536
 http://192.168.0.111:35455/douyu/8729614
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201806/c91c4da3496ba69e8766230e916bff2d_big.jpg" group-title="原创IP", 动漫推荐i
 http://192.168.0.111:35455/douyu/5187099
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/2453876f17a24160a0c3275c2ab7fe16_big.jpg" group-title="原创IP", 阿松撩剧
+http://192.168.0.111:35455/douyu/8880843
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/11_big.jpg" group-title="一起看", 红灯亮时丶右转
 http://192.168.0.111:35455/douyu/8971159
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/19f029dd037542e4873a4d44066ee204_big.jpg" group-title="原创IP", 小姐姐Bie跑哦
@@ -1027,8 +1033,14 @@ http://192.168.0.111:35455/douyu/8666258
 http://192.168.0.111:35455/douyu/8867878
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/c939d0c3e4fa4aef96fcffb31d040f58_big.jpg" group-title="原创IP", 小林家的旗女仆
 http://192.168.0.111:35455/douyu/9211287
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/4429f6fe2ef7480fb4f8c2f77661d527_big.jpg" group-title="一起看", 冬熊零食铺
+http://192.168.0.111:35455/douyu/10586105
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/2e695cd740e141bbae0e99bc29d342cb_big.jpg" group-title="原创IP", 鸡腿子软糖
 http://192.168.0.111:35455/douyu/8695854
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5d6c1395c02d4e6995a6b2259f725da2_big.jpg" group-title="原创IP", 画渣花小烙
+http://192.168.0.111:35455/douyu/9072066
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/99c9757ff46c42ee97fe02a9006626cb_big.jpg" group-title="原创IP", 山里记
+http://192.168.0.111:35455/douyu/9410236
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/013/17/62/49_avatar_big.jpg" group-title="原创IP", 猪肉熟了
 http://192.168.0.111:35455/douyu/296836
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/09/15/d8d54f065e236761001792866919a5f2_big.jpg" group-title="原创IP", 柳青瑶本尊
@@ -1073,8 +1085,6 @@ http://192.168.0.111:35455/douyu/1753007
 http://192.168.0.111:35455/douyu/2282604
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/42520dc0614c4cde90cc3597d8e00b67_big.jpg" group-title="原创IP", 流小豆
 http://192.168.0.111:35455/douyu/2441228
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201707/11/13/bd2eef1a867eb55f2b3dea990c4c1f02_big.jpg" group-title="原创IP", 淮秀帮官方
-http://192.168.0.111:35455/douyu/2519745
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201604/2a9d69c261d7572ee2e1ce1e608efc4f_big.jpg" group-title="一起看", Pow丶羽觞
 http://192.168.0.111:35455/douyu/2610410
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/b619c03efd174ba582ca06362000517b_big.jpg" group-title="原创IP", 同行渔猎笔记
@@ -1087,6 +1097,8 @@ http://192.168.0.111:35455/douyu/3498219
 http://192.168.0.111:35455/douyu/3505453
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/09_big.jpg" group-title="原创IP", AK萌虎
 http://192.168.0.111:35455/douyu/4049310
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/3311a888fb7f4e00a3529f85569d698f_big.jpg" group-title="原创IP", 弹吉他的Miumiu
+http://192.168.0.111:35455/douyu/4564166
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/fc2e7d7698f34953a25544458b60158f_big.jpg" group-title="原创IP", 蓝格雷
 http://192.168.0.111:35455/douyu/5124602
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/bdfff53eba7f4f9685a27df8da5315f8_big.jpg" group-title="原创IP", 压力洋哥
@@ -1205,6 +1217,8 @@ http://192.168.0.111:35455/douyu/9272043
 http://192.168.0.111:35455/douyu/9306609
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/40938674be84418eb5cc5e3fb75bb866_big.jpg" group-title="原创IP", 汪哥说电影
 http://192.168.0.111:35455/douyu/9312685
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/7034a034d4e6468e8518d098a199a22e_big.jpg" group-title="原创IP", 俄罗斯女孩安娜
+http://192.168.0.111:35455/douyu/9314604
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/10_big.jpg" group-title="原创IP", 探秘者大正
 http://192.168.0.111:35455/douyu/9330485
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/7008c5a158994707ba4d275434267d29_big.jpg" group-title="原创IP", 麦绿素dustdream
@@ -1293,6 +1307,8 @@ http://192.168.0.111:35455/douyu/9484187
 http://192.168.0.111:35455/douyu/9486905
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/07/00/5f40efea1368700527ac1c1177a79321_big.jpg" group-title="原创IP", MK青凌
 http://192.168.0.111:35455/douyu/9488836
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/440562ceaab7404cb5c7f65dfb890e7f_big.jpg" group-title="原创IP", 一条正弦sin
+http://192.168.0.111:35455/douyu/9497985
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/ca2a06fa266b4407b44f84ec560c82da_big.jpg" group-title="原创IP", 小林家的意大利炮
 http://192.168.0.111:35455/douyu/9501444
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/d281b77e578d402590388a0b3e74847e_big.jpg" group-title="原创IP", 纸鸢SomniumV
@@ -1337,6 +1353,8 @@ http://192.168.0.111:35455/douyu/9566154
 http://192.168.0.111:35455/douyu/9568196
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/244a7d6fbf1943b2b8c47e36c25e83f9_big.jpg" group-title="原创IP", 爱黏人的圆子
 http://192.168.0.111:35455/douyu/9576933
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/652c004edb924a799f364fb5fa992006_big.jpg" group-title="原创IP", 臧老师好
+http://192.168.0.111:35455/douyu/9576994
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/1dab5c2f064b4b95839bc7276a751b11_big.jpg" group-title="原创IP", 然续续
 http://192.168.0.111:35455/douyu/9609171
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/18eee807eca14f18831dc43289b22260_big.jpg" group-title="原创IP", 海男Rexv
@@ -1377,8 +1395,6 @@ http://192.168.0.111:35455/douyu/9720919
 http://192.168.0.111:35455/douyu/9722147
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/a0604a201d1746e983a5436f2d0e4cd2_big.jpg" group-title="原创IP", 杰克大魔王V
 http://192.168.0.111:35455/douyu/9729740
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/4a61dd0a0aa84ff1abcde240e83b673c_big.jpg" group-title="原创IP", 小侠来了
-http://192.168.0.111:35455/douyu/9734042
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/1c7a4232566d47b19c55fc653c1583fc_big.jpg" group-title="原创IP", 第七艺术坊
 http://192.168.0.111:35455/douyu/9737022
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/694f49898e34439186c2bfdeee9209a4_big.jpg" group-title="原创IP", 李会长街溜子
@@ -1417,6 +1433,8 @@ http://192.168.0.111:35455/douyu/9437349
 http://192.168.0.111:35455/douyu/9527761
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/13cfb7bbead148b2b2b898743772b39d_big.jpg" group-title="原创IP", 庄尼兔拟音实验室
 http://192.168.0.111:35455/douyu/9546169
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/6e2e8212f29647c3a77522f1cefec72d_big.jpg" group-title="原创IP", 二次元fans鹿鹿
+http://192.168.0.111:35455/douyu/8661526
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/0afd701e55d5441e87dcd73afbe13a30_big.jpg" group-title="原创IP", 末日说电影
 http://192.168.0.111:35455/douyu/9431125
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/036c301acc7e46acb8ddba5686ff052a_big.jpg" group-title="原创IP", 流心影者
@@ -1425,8 +1443,8 @@ http://192.168.0.111:35455/douyu/9447717
 http://192.168.0.111:35455/douyu/9542676
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/2a0c591b2a9e4ddfb6251b670aa9690e_big.jpg" group-title="原创IP", 罗叔说戏
 http://192.168.0.111:35455/douyu/9788756
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/4429f6fe2ef7480fb4f8c2f77661d527_big.jpg" group-title="一起看", 冬熊零食铺
-http://192.168.0.111:35455/douyu/10586105
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/c89b72bde4a74dd8a87a41b8d14559e0_big.jpg" group-title="原创IP", Starshine刹那
+http://192.168.0.111:35455/douyu/9191006
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9d3d3308a5234e5cab9ea49773e9c837_big.jpg" group-title="原创IP", 前任电影
 http://192.168.0.111:35455/douyu/9329242
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/95d56dcdb89643c380fca2b98031a423_big.jpg" group-title="原创IP", 养狗的一浩
@@ -1489,8 +1507,6 @@ http://192.168.0.111:35455/douyu/9067858
 http://192.168.0.111:35455/douyu/9283356
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/a2234d0f5d7a489497779582283a5fb5_big.jpg" group-title="原创IP", 鹏友说电影
 http://192.168.0.111:35455/douyu/9445244
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/c89b72bde4a74dd8a87a41b8d14559e0_big.jpg" group-title="原创IP", Starshine刹那
-http://192.168.0.111:35455/douyu/9191006
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/18c46ef347754f3e99dbf2a9e98cf397_big.jpg" group-title="原创IP", WANJINNY
 http://192.168.0.111:35455/douyu/9567755
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/16_big.jpg" group-title="原创IP", HOOPPARK篮球公园
@@ -1513,8 +1529,6 @@ http://192.168.0.111:35455/douyu/9498554
 http://192.168.0.111:35455/douyu/9650246
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/eaec941d171a4ddba7323246cfb3de9b_big.jpg" group-title="原创IP", 田园小漠
 http://192.168.0.111:35455/douyu/8669435
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/8d2ab1c50c784c9eb9589a0bb6d280a1_big.jpg" group-title="原创IP", 果冻lui
-http://192.168.0.111:35455/douyu/9191790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/452c999cb21f4b2886d04172cce10802_big.jpg" group-title="原创IP", TUOK肖恩
 http://192.168.0.111:35455/douyu/9392433
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/88332955e3494259bed6a749f39b9ea6_big.jpg" group-title="原创IP", 香兰爱影视
@@ -1537,8 +1551,6 @@ http://192.168.0.111:35455/douyu/9477316
 http://192.168.0.111:35455/douyu/1842621
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/40577722f0114abb81c0f8175d2a63ee_big.jpg" group-title="原创IP", 小超讲电影
 http://192.168.0.111:35455/douyu/3432645
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/6e2e8212f29647c3a77522f1cefec72d_big.jpg" group-title="原创IP", 二次元fans鹿鹿
-http://192.168.0.111:35455/douyu/8661526
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg" group-title="原创IP", 翦瞳秋
 http://192.168.0.111:35455/douyu/9623057
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/17_big.jpg" group-title="原创IP", 喵招诗雨
@@ -1551,16 +1563,12 @@ http://192.168.0.111:35455/douyu/9050486
 http://192.168.0.111:35455/douyu/9329185
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c2e7915a88c4461fa1345a6826331acd_big.jpg" group-title="原创IP", 君笑坊
 http://192.168.0.111:35455/douyu/9444093
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/652c004edb924a799f364fb5fa992006_big.jpg" group-title="原创IP", 臧老师好
-http://192.168.0.111:35455/douyu/9576994
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/13f74852740240579a6acbf3735272c1_big.jpg" group-title="原创IP", 蔡恩雨Priscilla
 http://192.168.0.111:35455/douyu/9662853
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/f8d59e28e6f341358862600ab86fcd83_big.jpg" group-title="原创IP", 开箱嘤嘤怪
 http://192.168.0.111:35455/douyu/10319056
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="原创IP", 三个老爸实验室
 http://192.168.0.111:35455/douyu/9090487
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/1cd0b585d9bc4405b643f7cb396571bd_big.jpg" group-title="原创IP", 大白话来也
-http://192.168.0.111:35455/douyu/9412287
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/bca4268acee241fdb1b6d545f7f63f90_big.jpg" group-title="原创IP", 小铁房乐队
 http://192.168.0.111:35455/douyu/9624976
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201908/0b294d642eff4b2fb6d8674de5802ce6_big.jpg" group-title="原创IP", 萱草丶daylily
@@ -1599,6 +1607,8 @@ http://192.168.0.111:35455/douyu/4400816
 http://192.168.0.111:35455/douyu/9192932
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/201341b6d88a4f99862d026c47b8e185_big.jpg" group-title="原创IP", 龙哥盘电影
 http://192.168.0.111:35455/douyu/9736161
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201707/11/13/bd2eef1a867eb55f2b3dea990c4c1f02_big.jpg" group-title="原创IP", 淮秀帮官方
+http://192.168.0.111:35455/douyu/2519745
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/b9a60ecd23574764a00137fb657912a9_big.jpg" group-title="原创IP", 关云猖
 http://192.168.0.111:35455/douyu/8820996
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c9de803e16f44eef99a05196f0a91c23_big.jpg" group-title="原创IP", 绘说篮球C
@@ -1717,6 +1727,8 @@ http://192.168.0.111:35455/douyu/4585643
 http://192.168.0.111:35455/douyu/8706350
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/7b38c1d9a9744063be1d68fc8b4682f6_big.jpg" group-title="原创IP", SAO东西又再说SAO话
 http://192.168.0.111:35455/douyu/8833450
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/1cd0b585d9bc4405b643f7cb396571bd_big.jpg" group-title="原创IP", 大白话来也
+http://192.168.0.111:35455/douyu/9412287
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c350ff3fcc4a430199a7198154631934_big.jpg" group-title="原创IP", 是小x同学呀
 http://192.168.0.111:35455/douyu/9415020
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/309611b31a354e419653ea1f8190986a_big.jpg" group-title="原创IP", 龙大人不喷火zZ
@@ -1751,14 +1763,14 @@ http://192.168.0.111:35455/douyu/9749339
 http://192.168.0.111:35455/douyu/3617935
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/1f4b371f26c04f62911b55655add2e06_big.jpg" group-title="原创IP", 在下小苏Su
 http://192.168.0.111:35455/douyu/8658051
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/8d2ab1c50c784c9eb9589a0bb6d280a1_big.jpg" group-title="原创IP", 果冻lui
+http://192.168.0.111:35455/douyu/9191790
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/28f3b6684a524d9fa45c5af150b4829d_big.jpg" group-title="原创IP", 可乐撩电影
 http://192.168.0.111:35455/douyu/9371552
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/155e4bb6ec684f2d8dee59f840a928ac_big.jpg" group-title="原创IP", 九冢嵬
 http://192.168.0.111:35455/douyu/9393501
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/cfba3993896d43719037f700e3cd6fe2_big.jpg" group-title="原创IP", 电视这个圈儿
 http://192.168.0.111:35455/douyu/9425669
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/440562ceaab7404cb5c7f65dfb890e7f_big.jpg" group-title="原创IP", 一条正弦sin
-http://192.168.0.111:35455/douyu/9497985
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/9dc387da1013499e95b46c43767e8ca9_big.jpg" group-title="原创IP", 周墨看电影
 http://192.168.0.111:35455/douyu/9505584
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/ccb9f13bf77a4c3dae0ddf398695cb37_big.jpg" group-title="原创IP", 御前狼王顾云川
@@ -1781,8 +1793,6 @@ http://192.168.0.111:35455/douyu/9516137
 http://192.168.0.111:35455/douyu/9517351
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/3430bbaf6f374c4a81c7f1f00126139d_big.jpg" group-title="原创IP", 京城笑工坊
 http://192.168.0.111:35455/douyu/10329324
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/7034a034d4e6468e8518d098a199a22e_big.jpg" group-title="原创IP", 俄罗斯女孩安娜
-http://192.168.0.111:35455/douyu/9314604
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/787976ac3df84b6ba0d462d8b2e77d9d_big.jpg" group-title="原创IP", 酉晨君
 http://192.168.0.111:35455/douyu/9484541
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/04_big.jpg" group-title="原创IP", 爱讲神话的小志
@@ -1913,8 +1923,6 @@ http://192.168.0.111:35455/douyu/9611771
 http://192.168.0.111:35455/douyu/10289400
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/9de06fd23c924cc9ae7f52bb039fd041_big.jpg" group-title="原创IP", 亮亮也是酿酿
 http://192.168.0.111:35455/douyu/4340136
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/3311a888fb7f4e00a3529f85569d698f_big.jpg" group-title="原创IP", 弹吉他的Miumiu
-http://192.168.0.111:35455/douyu/4564166
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/e1b3a012c42f43efba6c700366251272_big.jpg" group-title="原创IP", 橘癫疯Oswald
 http://192.168.0.111:35455/douyu/8793544
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/65238dd74d0346d8a5fd2298f987b9fe_big.jpg" group-title="原创IP", 香菜碎碎念鸭
