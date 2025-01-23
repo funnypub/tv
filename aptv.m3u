@@ -222,71 +222,12 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="一起看",科幻Fans
-http://192.168.0.121:9999/douyu/?roomId=3508304
-#EXTINF:-1 group-title="一起看",Rainsun宇
-http://192.168.0.121:9999/douyu/?roomId=323876
-#EXTINF:-1 group-title="一起看",伊太刀刀
-http://192.168.0.121:9999/douyu/?roomId=747764
-#EXTINF:-1 group-title="一起看",牛叔说电影
-http://192.168.0.121:9999/douyu/?roomId=2758565
-#EXTINF:-1 group-title="一起看",吃奶滴虫
-http://192.168.0.121:9999/douyu/?roomId=263824
-#EXTINF:-1 group-title="一起看",狂仔酷炫
-http://192.168.0.121:9999/douyu/?roomId=252802
-#EXTINF:-1 group-title="一起看",酷炫小剧场
-http://192.168.0.121:9999/douyu/?roomId=36337
-#EXTINF:-1 group-title="一起看",狂拽酷炫
-http://192.168.0.121:9999/douyu/?roomId=4332
-#EXTINF:-1 group-title="一起看",苹果Zei妖
-http://192.168.0.121:9999/douyu/?roomId=2793084
-#EXTINF:-1 group-title="一起看",美兮超可爱的
-http://192.168.0.121:9999/douyu/?roomId=20415
-#EXTINF:-1 group-title="一起看",进击D神乐
-http://192.168.0.121:9999/douyu/?roomId=122402
-#EXTINF:-1 group-title="一起看",baby、贝贝
-http://192.168.0.121:9999/douyu/?roomId=431460
-#EXTINF:-1 group-title="一起看",UU娇哒哒呀
-http://192.168.0.121:9999/douyu/?roomId=96577
-#EXTINF:-1 group-title="一起看",苹果Zei甜
-http://192.168.0.121:9999/douyu/?roomId=1174353
-#EXTINF:-1 group-title="一起看",周星星
-http://192.168.0.121:35455/huya/11342412
-#EXTINF:-1 group-title="一起看",野原的一家
-http://192.168.0.121:35455/huya/11352970
-#EXTINF:-1 group-title="一起看",阿斗归来了
-http://192.168.0.121:35455/huya/13303478
-#EXTINF:-1 group-title="一起看",扁豆看电影
-http://192.168.0.121:35455/huya/16028551
-#EXTINF:-1 group-title="一起看",正恒YJ-十五放映厅
-http://192.168.0.121:35455/huya/29451869
-#EXTINF:-1 group-title="一起看",简辞子
-http://192.168.0.121:35455/huya/29915635
-#EXTINF:-1 group-title="一起看",虎猫和老鼠
-http://192.168.0.121:35455/huya/11352879
-#EXTINF:-1 group-title="一起看",八点档
-http://192.168.0.121:35455/huya/880261
-
-
-#EXTINF:-1 group-title="一起看",临时01
-http://192.168.0.121:9999/customize/?roomId=1
-
-#EXTINF:-1 group-title="一起看",临时02
-http://192.168.0.121:9999/customize/?roomId=2
-
 
 
 #EXTINF:-1 group-title="一起看OL",斗鱼-科幻Fans
 https://www.goodiptv.club/douyu/3508304
-#EXTINF:-1 group-title="一起看OL",斗鱼-Rainsun宇
-https://www.goodiptv.club/douyu/323876
-#EXTINF:-1 group-title="一起看OL",斗鱼-伊太刀刀
-https://www.goodiptv.club/douyu/747764
-#EXTINF:-1 group-title="一起看OL",斗鱼-牛叔说电影
-https://www.goodiptv.club/douyu/2758565
-#EXTINF:-1 group-title="一起看OL",斗鱼-吃奶滴虫
-https://www.goodiptv.club/douyu/263824
+#EXTINF:-1 group-title="一起看",周星星
+https://www.goodiptv.club/huya/13303478
 #EXTINF:-1 group-title="一起看OL",虎牙-阿斗归来了
 https://www.goodiptv.club/huya/13303478
 #EXTINF:-1 group-title="一起看OL",虎牙-扁豆看电影
