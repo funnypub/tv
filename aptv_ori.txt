@@ -1,9 +1,5 @@
-央视-菁彩声,#genre#
-CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
-CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
-测试视频 7.1.4 12声道,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 央视IPV4,#genre#
+春晚4K,http://148.135.93.213:81/live.php?id=春晚1
 CCTV1,http://148.135.93.213:81/live.php?id=CCTV1
 CCTV2,http://148.135.93.213:81/live.php?id=CCTV2
 CCTV3,http://148.135.93.213:81/live.php?id=CCTV3
@@ -28,6 +24,11 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
+央视-菁彩声,#genre#
+CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+测试视频 7.1.4 12声道,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 卫视IPV4,#genre#
 重温经典,http://148.135.93.213:81/live.php?id=重温经典
 CHC家庭影院,http://148.135.93.213:81/live.php?id=CHC家庭影院
