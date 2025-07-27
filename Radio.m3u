@@ -139,4 +139,55 @@ https://radio.0472.org/?id=928
 https://radio.0472.org/?id=1897
 #EXTINF:-1 tvg-name="云南音乐广播" tvg-logo="https://radio.0472.org/?id=592&logo" group-title="音乐广播",云南音乐广播
 https://radio.0472.org/?id=592
-#EXTINF:-1 tvg-name="广西音乐�
+#EXTINF:-1 tvg-name="广西音乐台" tvg-logo="https://radio.0472.org/?id=590&logo" group-title="音乐广播",广西音乐台
+https://radio.0472.org/?id=590
+#EXTINF:-1 tvg-name="贵州音乐广播" tvg-logo="https://radio.0472.org/?id=435&logo" group-title="音乐广播",贵州音乐广播
+https://radio.0472.org/?id=435
+#EXTINF:-1 tvg-name="新疆音乐广播" tvg-logo="https://radio.0472.org/?id=1158&logo" group-title="音乐广播",新疆音乐广播
+https://radio.0472.org/?id=1158
+#EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
+https://radio.0472.org/?id=543
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
+http://live.cooltv.top/tv/news1296.php?id=4
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-id="AFORadio" tvg-name="AFORadio" tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="音乐广播",AFO Radio
+https://stream.rcs.revma.com/7x3gv2y4bshvv
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
+http://hls.njgb.com/live_hls/8/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",GB News
+https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1 group-title="境外广播",LBC News
+https://icecast.thisisdax.com/LBCNewsUKMP3
+#EXTINF:-1 group-title="境外广播",BBC News
+https://ice.audionow.com/485BBCWorld.mp3
+#EXTINF:-1 group-title="境外广播",Times Radio
+http://timesradio.wireless.radio/stream
+#EXTINF:-1 group-title="境外广播",Talk Radio
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 group-title="境外广播",Capital FM
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",Hao FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
+#EXTINF:-1 group-title="境外广播",FM 988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+#EXTINF:-1 group-title="境外广播",Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1 group-title="境外广播",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 group-title="境外广播",Yes FM
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="境外广播",Kiss FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
+#EXTINF:-1 group-title="境外广播",Love FM
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",Power FM
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1 group-title="境外广播",CNA亚洲新闻
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
