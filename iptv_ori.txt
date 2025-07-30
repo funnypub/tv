@@ -194,11 +194,3 @@ iHOT爱喜剧,http://gslbserv.itv.cmvideo.cn/6000000006000010630/1.m3u8?channel-
 iHOT爱悬疑,http://gslbserv.itv.cmvideo.cn/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱院线,http://gslbserv.itv.cmvideo.cn/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-一起看OL,#genre#
-斗鱼-科幻Fans,https://www.goodiptv.club/douyu/3508304
-虎牙-周星星,https://www.goodiptv.club/huya/13303478
-虎牙-阿斗归来了,https://www.goodiptv.club/huya/13303478
-虎牙-扁豆看电影,https://www.goodiptv.club/huya/16028551
-虎牙-蜡笔小新,https://www.goodiptv.club/huya/11352970
-虎牙-猫和老鼠,https://www.goodiptv.club/huya/11352879
-虎牙-八点档,https://www.goodiptv.club/huya/880261
