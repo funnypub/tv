@@ -121,11 +121,3 @@ CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-一起看OL,#genre#
-斗鱼-科幻Fans,https://www.goodiptv.club/douyu/3508304
-虎牙-周星星,https://www.goodiptv.club/huya/13303478
-虎牙-阿斗归来了,https://www.goodiptv.club/huya/13303478
-虎牙-扁豆看电影,https://www.goodiptv.club/huya/16028551
-虎牙-蜡笔小新,https://www.goodiptv.club/huya/11352970
-虎牙-猫和老鼠,https://www.goodiptv.club/huya/11352879
-虎牙-八点档,https://www.goodiptv.club/huya/880261
