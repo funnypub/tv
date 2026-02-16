@@ -1,3 +1,13 @@
+央视IPV4,#genre#
+春晚4K-1,http://101.35.240.114:88/live.php?id=春晚1
+春晚4K-2,http://101.35.240.114:88/live.php?id=春晚2
+CCTV16,http://101.35.240.114:88/live.php?id=CCTV16
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 央视IPV4 catchupappend catchup-source?playbackbegin${(b)yyyyMMddHHmmss}&playbackend${(e)yyyyMMddHHmmss},#genre#
 CCTV1,http://101.35.240.114:88/live.php?id=CCTV1
 CCTV2,http://101.35.240.114:88/live.php?id=CCTV2
@@ -18,14 +28,6 @@ CCTV17,http://101.35.240.114:88/live.php?id=CCTV17
 CHC家庭影院,http://101.35.240.114:88/live.php?id=CHC家庭影院
 CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
 CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
-央视IPV4,#genre#
-CCTV16,http://101.35.240.114:88/live.php?id=CCTV16
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
 卫视IPV4,#genre#
 重温经典,http://101.35.240.114:88/live.php?id=重温经典
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
