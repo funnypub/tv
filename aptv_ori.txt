@@ -1,15 +1,3 @@
-央视IPV4,#genre#
-春晚4K-1,https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
-春晚4K-2,https://pull-flv-spe-l1.douyinliving.com/fantasy/stream-118852785363485366_uhd5.flv?arch_hrchy=s2&keeptime=00015180&major_anchor_level=vip&t_id=037-2026021619433646D830B85B4FBB13E520-uAlm1J&unique_id=stream-118852785363485366_694_flv_uhd5&wsSecret=12bc839860c9fc9298d9e546e16c6532&wsTime=699302e8&_session_id=037-2026021619433646D830B85B4FBB13E520-uAlm1J.1771242216924.64717&rsi=1&abr_pts=-800
-春晚4K-3,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
-春晚4K-4,https://shcm-stream-cf.live.tv.darwinchow.com/ch00000090990000001451/index.m3u8?livekey=01WbbqVBIBjZ54BypWLK24kfC2JIacju5XKHA&live_token=13H7tSlaUUz2FkE89CF48XxipyXcW3zZ
-CCTV16,http://101.35.240.114:88/live.php?id=CCTV16
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
 央视IPV4 catchupappend catchup-source?playbackbegin${(b)yyyyMMddHHmmss}&playbackend${(e)yyyyMMddHHmmss},#genre#
 CCTV1,http://101.35.240.114:88/live.php?id=CCTV1
 CCTV2,http://101.35.240.114:88/live.php?id=CCTV2
@@ -30,6 +18,14 @@ CCTV17,http://101.35.240.114:88/live.php?id=CCTV17
 CHC家庭影院,http://101.35.240.114:88/live.php?id=CHC家庭影院
 CHC动作电影,http://101.35.240.114:88/live.php?id=CHC动作电影
 CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
+央视IPV4,#genre#
+CCTV16,http://101.35.240.114:88/live.php?id=CCTV16
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 卫视IPV4,#genre#
 重温经典,http://101.35.240.114:88/live.php?id=重温经典
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
