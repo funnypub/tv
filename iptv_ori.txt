@@ -52,7 +52,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 安徽卫视,http://101.35.240.114:88/live.php?id=安徽卫视
 山东卫视,http://101.35.240.114:88/live.php?id=山东卫视
 山西卫视,http://101.35.240.114:88/live.php?id=山西卫视
-广西卫视,http://101.35.240.114:88/live.php?id=广西卫视
+广西卫视,rtmp://live.gxrb.com.cn/hls/a23
 河北卫视,http://101.35.240.114:88/live.php?id=河北卫视
 河南卫视,http://101.35.240.114:88/live.php?id=河南卫视
 甘肃卫视,http://101.35.240.114:88/live.php?id=甘肃卫视
@@ -68,7 +68,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
 4K8K频道,#genre#
 北京卫视4K,http://101.35.240.114:88/live.php?id=北京卫视
-深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视
+深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视4K
 江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
 浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
 湖南卫视4K,http://101.35.240.114:88/live.php?id=湖南卫视4K
