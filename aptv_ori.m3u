@@ -100,3 +100,25 @@ http://101.35.240.114:88/live.php?id=西藏卫视
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",新疆卫视
 http://101.35.240.114:88/live.php?id=新疆卫视
 #EXTINF:-1 tvg-id="青海卫�
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="一起看OL",斗鱼-科幻Fans
+https://www.goodiptv.club/douyu/3508304
+#EXTINF:-1 group-title="一起看OL",虎牙-周星星
+https://www.goodiptv.club/huya/13303478
+#EXTINF:-1 group-title="一起看OL",虎牙-阿斗归来了
+https://www.goodiptv.club/huya/13303478
+#EXTINF:-1 group-title="一起看OL",虎牙-扁豆看电影
+https://www.goodiptv.club/huya/16028551
+#EXTINF:-1 group-title="一起看OL",虎牙-蜡笔小新
+https://www.goodiptv.club/huya/11352970
+#EXTINF:-1 group-title="一起看OL",虎牙-猫和老鼠
+https://www.goodiptv.club/huya/11352879
+#EXTINF:-1 group-title="一起看OL",虎牙-八点档
+https://www.goodiptv.club/huya/880261
